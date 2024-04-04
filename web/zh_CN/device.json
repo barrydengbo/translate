@@ -1,0 +1,47 @@
+{
+  "router": "中转",
+  "title": "设备",
+  "add": "添加设备",
+  "tracking": "跟踪",
+  "edit": "编辑设备",
+  "delete": "删除设备",
+  "deleteTooltip": "确定要删除此设备？",
+  "deleteWarning": "删除后将不可恢复",
+  "name": "名字",
+  "id": "ID",
+  "redirect": "Redirect",
+  "createdAt": "Created At",
+  "operation": "操作",
+  "nameOrId": "设备ID/设备名称",
+  "deviceModal": {
+    "nameLabel": "设备名字",
+    "nameHelp": "设备名字",
+    "idLabel": "IMEI",
+    "addressLabel": "目标地址",
+    "portLabel": "端口",
+    "brandLabel": "品牌",
+    "typeLabel": "类型",
+    "uploadInterval": "数据包上传间隔",
+    "heartbeatInterval": "心跳包上传间隔",
+    "maxSpeed": "最大速度",
+    "minSpeed": "最小速度",
+    "idleRange": "空转时长范围",
+    "stopRange": "停车时长范围",
+
+    "popWindow": {
+      "host": "IP 地址或域名",
+      "port": "端口",
+      "idleMin": "最小时长(1~3)",
+      "idleMax": "最大时长(3~5)",
+      "idleCount": "出现次数(数值范围0~5)",
+      "inputCount": "请输入出现次数",
+      "doCount": "出现次数",
+      "count": "次",
+      "limit": "数值范围",
+      "accOnLimit": "AccOn数值范围",
+      "accOffLimit": "AccOff数值范围",
+      "timeMax": "最大时长",
+      "timeMin": "最小时长"
+    }
+  }
+}

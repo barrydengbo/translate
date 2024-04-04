@@ -1,0 +1,47 @@
+{
+  "router": "Relaying Function",
+  "title": "Device",
+  "add": "Add device",
+  "tracking": "Tracking",
+  "edit": "Edit device",
+  "delete": "Delete device",
+  "deleteTooltip": "Are you sure you want to delete this device?",
+  "deleteWarning": "After deletion, it will not be recoverable",
+  "name": "Name",
+  "id": "ID",
+  "redirect": "Redirect",
+  "createdAt": "Created At",
+  "operation": "Operation",
+  "nameOrId": "Device ID/Device Name",
+  "deviceModal":{
+    "nameLabel": "Device Name",
+    "nameHelp": "Device Name",
+    "idLabel": "IMEI",
+    "addressLabel": "Target Address",
+    "portLabel": "Port",
+    "brandLabel": "Brand",
+    "typeLabel": "Model",
+    "uploadInterval": "Timer",
+    "heartbeatInterval": "Heartbeat",
+    "maxSpeed": "Max Speed",
+    "minSpeed": "Min Speed",
+    "idleRange": "Idle Time",
+    "stopRange": "Parking Time",
+
+    "popWindow": {
+      "host": "IP address or domain name",
+      "port": "Port",
+      "idleMin": "Minimum duration (1-3)",
+      "idleMax": "Maximum duration (3~5)",
+      "idleCount": "Number of occurrences (numerical range 0~5)",
+      "inputCount": "Please enter the number of occurrences",
+      "doCount": "Number of occurrences",
+      "count": "order",
+      "limit": "Numeric Range",
+      "accOnLimit": "AccOn numerical range",
+      "accOffLimit": "AccOff numerical range",
+      "timeMax": "Maximum duration",
+      "timeMin": "Minimum duration"
+    }
+  }
+}

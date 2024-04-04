@@ -1,0 +1,551 @@
+7ec6a9f3adc84a7aa4b6c7844fd25a37:basefield.OSD 字幕叠加设置.0.description: 日期和时间
+77d9849816f94dcdb8a38097f1d41db7:basefield.OSD 字幕叠加设置.0.values.0: 不叠加
+0ecd07c621ec1a3868af6bf545e6bb08:basefield.OSD 字幕叠加设置.0.values.1: 叠加
+896dc2c76bcb86fc4da4ac7440fb8d9c:basefield.OSD 字幕叠加设置.1.description: 车牌号码
+d17c53d352279d28156751cfb94240a3:basefield.OSD 字幕叠加设置.1.values.0: 不叠加
+fbe9e8c86d35deb058831f4fae987265:basefield.OSD 字幕叠加设置.1.values.1: 叠加
+efe052f87320867719c410580c7abe68:basefield.OSD 字幕叠加设置.2.description: 逻辑通道号
+2057aac05d2426ed459789d5af152495:basefield.OSD 字幕叠加设置.2.values.0: 不叠加
+d4044aaccee3bd54bfe9b11439b9cd11:basefield.OSD 字幕叠加设置.2.values.1: 叠加
+088df7b30dbcd554481a439e8d25759d:basefield.OSD 字幕叠加设置.3.description: 经纬度
+3d92f395f1055954f95302e8100bcfc3:basefield.OSD 字幕叠加设置.3.values.0: 不叠加
+a96ecf9e0cd1a72bfe895e90955fcc8c:basefield.OSD 字幕叠加设置.3.values.1: 叠加
+498d0ec74e8d3c2885cbfedd1590bede:basefield.OSD 字幕叠加设置.4.description: 行驶记录速度
+861d931798c35a0f966a65d1633dfc89:basefield.OSD 字幕叠加设置.4.values.0: 不叠加
+9dd94608e710a8b7bd59973787c379fc:basefield.OSD 字幕叠加设置.4.values.1: 叠加
+6f28436aaed3ed31c7e094c28253d537:basefield.OSD 字幕叠加设置.5.description: 卫星定位速度
+9e5b045bea90de14fe115e4677215ec2:basefield.OSD 字幕叠加设置.5.values.0: 不叠加
+592e74c0c9f345c183c78df28e3bf96d:basefield.OSD 字幕叠加设置.5.values.1: 叠加
+765f36d52ad2c7c68de6d2bdf5e541fb:basefield.OSD 字幕叠加设置.6.description: 连续驾驶时间
+2f7f8f7202f4099762b395336ee125a5:basefield.OSD 字幕叠加设置.6.values.0: 不叠加
+e3d3f96c9599c28ffa561882237ac775:basefield.OSD 字幕叠加设置.6.values.1: 叠加
+e6a44296e4f191f63ffe8e6f41fb373b:basefield.OSD 字幕叠加设置.name: OSD 字幕叠加设置
+202e2180cf976a49fb4bb2ed8e8813a6:basefield.流分辨率.name: 流分辨率
+9cc863c741d84ec1c0d10a065d9a722b:basefield.流分辨率.values.0: QCIF
+8d9bf2920c2c5e386063d4c31c63b974:basefield.流分辨率.values.1: CIF
+b7d4ec84c27e5731ba4c852678e422af:basefield.流分辨率.values.2: WCIF
+922311b08e52d802c2ec47006246cbab:basefield.流分辨率.values.3: D1
+2b6e9cf410293aa093bfbae804e6ee3e:basefield.流分辨率.values.4: WD1
+3b02322e505df91c80e02e070acea8b1:basefield.流分辨率.values.5: 720P
+fd1d8c575e5c9806a42e1a8e467c51eb:basefield.流分辨率.values.6: 1080P
+371c717d00f607f4e3bea346b3431b56:basefield.流编码模式.name: 流编码模式
+9e0c5f3f05052a6e95dcc7fa0692beca:basefield.流编码模式.values.0: CBR
+74cd2b67c57be376a891b19be145f8ef:basefield.流编码模式.values.1: VBR
+efcb2eb1ce953f06bb54e5d20c963912:basefield.流编码模式.values.2: ABR
+8218f1982e0439cf079c392a49808370:command.1.cmd: 终端通用应答
+802ce9c79053007921a7b8b597b9f607:command.1.request.应答 ID.name: 应答 ID
+07a3901eb99544caeff8fb728765ed33:command.1.request.应答流水号.name: 应答流水号
+cd1e58145aa50f0cca8265f467bef10f:command.1.request.结果.name: 结果
+63beed6511130eb3b6fd889f4984b6eb:command.1.request.结果.values.0: 成功/确认
+980435b6dc0beccd660f0a32da02ff0d:command.1.request.结果.values.1: 失败
+a058e0d4cce98be044183f23c0bd4366:command.1.request.结果.values.2: 消息有误
+1478fcb3442f3f709667ddf5c5286596:command.1.request.结果.values.3: 不支持
+bf2f368b6ac5c24625f76c4eb71eba04:command.1796.cmd: 定位数据批量上传
+7ea3a005e92a44a90d5d9d97560d2241:command.1796.request.位置数据类型.name: 位置数据类型
+2c7bbe9b3abf9c964b3dc48e22391b70:command.1796.request.位置数据类型.values.0: 正常位置批量汇报
+2fd95e86fdc6b87a22cdf88e07e855ec:command.1796.request.位置数据类型.values.1: 盲区补报
+24de479f5b7cf11c0791cafabc56cad7:command.1796.request.位置汇报数据项.name: 位置汇报数据项
+465798b04f485f964db1c6fee6208258:command.1796.request.数据项个数.name: 数据项个数
+d63128dc7993b16c4379ce9122adfb84:command.2.cmd: 终端心跳
+1163b94ce0f021a69e8cf79db667a16a:command.2304.cmd: 数据上行透传
+bf0398257a0a3826849a412a1b61fbba:command.2304.request..name: 
+021df757994c20b9dd8c032589de63e4:command.256.cmd: 终端注册
+48ec401b224e2229e3e14657303f6eba:command.256.request.制造商 ID.name: 制造商 ID
+0d183b0ecedaeaac976c1b26e1a97c09:command.256.request.市县域 ID.name: 市县域 ID
+5ae5d276a73d362486c07307564a6903:command.256.request.省域 ID.name: 省域 ID
+14befa49941c48d2bd21e8c73b5acaf3:command.256.request.终端 ID.name: 终端 ID
+ad32dd628c1b357645fbedcfb4a42a77:command.256.request.终端型号.name: 终端型号
+5144cbc222382b70a12555e03940f962:command.256.request.车牌.name: 车牌
+a9a9e037f4ea4ade65ab15e7fd48eaa8:command.256.request.车牌颜色.name: 车牌颜色
+20e1bf087c30930a796d5e71c709cabc:command.258.cmd: 终端鉴权
+661530d8bdb018e59489e49663a75d8c:command.258.request.鉴权码.name: 鉴权码
+ed94a3cf5b98ce2778f6d2724bf54a60:command.260.cmd: 查询终端参数应答
+78a667cc055ace14d6cc741859eefc09:command.260.request.参数项列表.name: 参数项列表
+dfb0c5232397a3678f7d3ce33b1cb683:command.260.request.应答参数个数.name: 应答参数个数
+83c27a78bbfc01786ce26fa86915bdd1:command.260.request.应答流水号.name: 应答流水号
+e4f2e0d2d563caf34e9653373c6a3037:command.263.2013.request.GNSS 模块属性.0.values.0: 不支持 GPS 定位
+c4959db134436bc3d426f98bd4cd3c4e:command.263.2013.request.GNSS 模块属性.0.values.1: 支持 GPS 定位
+2cfd866143dd249fe2177c21f6d44579:command.263.2013.request.GNSS 模块属性.1.values.0: 不支持北斗定位
+09286bfe9b470a7a9b99958475dd132d:command.263.2013.request.GNSS 模块属性.1.values.1: 支持北斗定位
+0889e57775143a4842453c17ec810c3b:command.263.2013.request.GNSS 模块属性.2.values.0: 不支持 GLONASS 定位
+c2b7ec829af2c46dcad2e80d727eda4a:command.263.2013.request.GNSS 模块属性.2.values.1: 支持 GLONASS 定位
+9850fd8d75862c133d0279841ca924e7:command.263.2013.request.GNSS 模块属性.3.values.0: 不支持 Galileo 定位
+db31c453cd68d3dc22af4f0c902c143c:command.263.2013.request.GNSS 模块属性.3.values.1: 支持 Galileo 定位
+f1d5e59946b4e92ab39e71d3b0f3be6a:command.263.2013.request.GNSS 模块属性.name: GNSS 模块属性
+39e5bcdd98e338227e6df617cf9c2f75:command.263.2013.request.ICCID.name: ICCID
+54fff99e3ba826e1501c23a787a829d8:command.263.2013.request.制造商 ID.name: 制造商 ID
+c6f41cb1c34da8e0eb5f2c32fd5a02cd:command.263.2013.request.终端 ID.name: 终端 ID
+c126ac4b10e9b772fd513af785d87faa:command.263.2013.request.终端固件版本号.name: 终端固件版本号
+805f3a1af06b6007880ada3abb067e88:command.263.2013.request.终端固件版本号长度.name: 终端固件版本号长度
+5a65d9ca461b2c3503bcc0ad3fbe27f6:command.263.2013.request.终端型号.name: 终端型号
+86dd9ff33efb06453e94117acb55f930:command.263.2013.request.终端硬件版本号.name: 终端硬件版本号
+0f86217320712d57ff3fade57e1a20a7:command.263.2013.request.终端硬件版本号长度.name: 终端硬件版本号长度
+0e75ea8c65468473765889c509b02d4e:command.263.2013.request.终端类型.0.values.0: 不适用客运车辆
+5dea3d7c5d8e71e479ce397f538b7224:command.263.2013.request.终端类型.0.values.1: 适用客运车辆
+bb3e62669e6e227877188d80e82f02ea:command.263.2013.request.终端类型.1.values.0: 不适用危险品车辆
+b24eb62b398606a0c8a1abd6d4610c37:command.263.2013.request.终端类型.1.values.1: 适用危险品车辆
+798447785cde8610f0255623ac940fea:command.263.2013.request.终端类型.2.values.0: 不适用普通货运车辆
+c4ad4a74118eb5a33400e415d741c465:command.263.2013.request.终端类型.2.values.1: 适用普通货运车辆
+42327b0a7874e6ee277c58839d98b94c:command.263.2013.request.终端类型.3.values.0: 不适用出租车辆
+b3a04e0cc5f5b615ad639fc72845ef78:command.263.2013.request.终端类型.3.values.1: 适用出租车辆
+f91deda4d5ca6a5d5c64e8ef973093d9:command.263.2013.request.终端类型.6.values.0: 不支持硬盘录像
+16cd4d79d6bb3c5f6b129f64abb07a2c:command.263.2013.request.终端类型.6.values.1: 支持硬盘录像
+d4be85cf69e1d91f573f7f5a9cbd178b:command.263.2013.request.终端类型.7.values.0: 一体机
+fe9408d372eaaa49bf1909f10d69943c:command.263.2013.request.终端类型.7.values.1: 分体机
+00fee2815a1ffd146a673fcd3bd82dec:command.263.2013.request.终端类型.name: 终端类型
+dc464f82a7962aed173005cede3b3e11:command.263.2013.request.通信模块属性.0.values.0: 不支持GPRS通信
+ab7c935a5261a0aa15ce875903ccf246:command.263.2013.request.通信模块属性.0.values.1: 支持GPRS通信
+6e3b0814006eb699c96e38dfdfd17485:command.263.2013.request.通信模块属性.1.values.0: 不支持CDMA通信
+bc5e8d231b9f88fff9cf731d24e569fa:command.263.2013.request.通信模块属性.1.values.1: 支持CDMA通信
+fdeda2f79cb1f54345845ba0f57a90c8:command.263.2013.request.通信模块属性.2.values.0: 不支持TD-SCDMA通信
+d74172eeab18489c46d316231c1b4bed:command.263.2013.request.通信模块属性.2.values.1: 支持TD-SCDMA通信
+bf1bdbf450638306e39639986d592ace:command.263.2013.request.通信模块属性.3.values.0: 不支持WCDMA通信
+9853eed74098b7457404ab30d448a8a6:command.263.2013.request.通信模块属性.3.values.1: 支持WCDMA通信
+2c868c8440090f976527d713e7014664:command.263.2013.request.通信模块属性.4.values.0: 不支持CDMA2000通信
+230b468c8f1b86d6f14f904faac831ca:command.263.2013.request.通信模块属性.4.values.1: 支持CDMA2000通信
+1bcddbec214701dfd0605a75698c034d:command.263.2013.request.通信模块属性.5.values.0: 不支持TD-LTE通信
+546446a0ae88cdc6ba27492a594667e2:command.263.2013.request.通信模块属性.5.values.1: 支持TD-LTE通信
+11ac205f540e27e30e9bf305460dd433:command.263.2013.request.通信模块属性.7.values.0: 不支持其他通信方式
+33eaff0ab64abe7cf9ed5383feb9defd:command.263.2013.request.通信模块属性.7.values.1: 支持其他通信方式
+b2546b55a894174932106d7d3f97a265:command.263.2013.request.通信模块属性.name: 通信模块属性
+754802c5c885bd7d0e42c5a13136f5cd:command.263.2019.request.GNSS 模块属性.0.values.0: 不支持 GPS 定位
+095f2808eccf061be3bd1677450a1443:command.263.2019.request.GNSS 模块属性.0.values.1: 支持 GPS 定位
+40ca44219a2d295226cc4b72be1a57a2:command.263.2019.request.GNSS 模块属性.1.values.0: 不支持北斗定位
+af0b40c5d7832a24ac49dba86f480a2b:command.263.2019.request.GNSS 模块属性.1.values.1: 支持北斗定位
+7d81b16eb2311277eb35f612f3227988:command.263.2019.request.GNSS 模块属性.2.values.0: 不支持 GLONASS 定位
+13b740d0b04f7a0afdfd99207a3aec0f:command.263.2019.request.GNSS 模块属性.2.values.1: 支持 GLONASS 定位
+f583ed9a43cdb857c67f7b76227864d9:command.263.2019.request.GNSS 模块属性.3.values.0: 不支持 Galileo 定位
+4e23ac8c875303d20fdb70043605a84b:command.263.2019.request.GNSS 模块属性.3.values.1: 支持 Galileo 定位
+70d480c708a87b27df3b0b2b8c451891:command.263.2019.request.GNSS 模块属性.name: GNSS 模块属性
+eef6635328771966c75e274e5d869ef1:command.263.2019.request.ICCID.name: ICCID
+29899dd123b5af5a73e83d7561514a1d:command.263.2019.request.制造商 ID.name: 制造商 ID
+5610208b58afb843a869e12fc72fa704:command.263.2019.request.终端 ID.name: 终端 ID
+fb7ae2c29b05a707629a5cc84282c1c5:command.263.2019.request.终端固件版本号.name: 终端固件版本号
+a8ab4df1363d874c8876969894348f34:command.263.2019.request.终端固件版本号长度.name: 终端固件版本号长度
+20984f2e4edc869b781ae06523e5ec94:command.263.2019.request.终端型号.name: 终端型号
+d18f211c9e69386637a9cca79fe41fa2:command.263.2019.request.终端硬件版本号.name: 终端硬件版本号
+47ff766074760a350a086c026770ddf3:command.263.2019.request.终端硬件版本号长度.name: 终端硬件版本号长度
+08670a2b2f19b4f2ab6ee7ce66af7392:command.263.2019.request.终端类型.0.values.0: 不适用客运车辆
+20e3f0b5fca43b906bc7e30d76ca042c:command.263.2019.request.终端类型.0.values.1: 适用客运车辆
+3b5c223646c93bcdcb63a37dc7d45ea9:command.263.2019.request.终端类型.1.values.0: 不适用危险品车辆
+94b592fcbb4ee133cd23f0c83dcebe05:command.263.2019.request.终端类型.1.values.1: 适用危险品车辆
+6c55107e724b48955891b51da4e376fb:command.263.2019.request.终端类型.2.values.0: 不适用普通货运车辆
+eb738372d1dffb645ce87c1dd741e994:command.263.2019.request.终端类型.2.values.1: 适用普通货运车辆
+a14469c08c0ce55452ab75439612eee3:command.263.2019.request.终端类型.3.values.0: 不适用出租车辆
+747a821d9a2b61ad8886b4a59a6a4c90:command.263.2019.request.终端类型.3.values.1: 适用出租车辆
+f333c1a0e49e23182be4185374c96e1a:command.263.2019.request.终端类型.6.values.0: 不支持硬盘录像
+8d3ba99aaf33689cd195b32ebd57621b:command.263.2019.request.终端类型.6.values.1: 支持硬盘录像
+2d750739c29ecbc49cb91c066c2501a4:command.263.2019.request.终端类型.7.values.0: 一体机
+8c69f854474b16a3a2ba882c97c9d98f:command.263.2019.request.终端类型.7.values.1: 分体机
+1242c884cf60a396aa9d03b05a024140:command.263.2019.request.终端类型.8.values.0: 不适用挂车
+49a50e7292ec3ec29992423ae5efafed:command.263.2019.request.终端类型.8.values.1: 适用挂车
+7a138aff6c3288e45045362569bb6f4f:command.263.2019.request.终端类型.name: 终端类型
+b7e6f22b5019159cc850d1e25ccdef27:command.263.2019.request.通信模块属性.0.values.0: 不支持GPRS通信
+65cc4c8346f02869790ff4a289ad394e:command.263.2019.request.通信模块属性.0.values.1: 支持GPRS通信
+7173208d65db58ae4fe645dc5f22a702:command.263.2019.request.通信模块属性.1.values.0: 不支持CDMA通信
+0c212afd0d8c227613f593d5152bc84d:command.263.2019.request.通信模块属性.1.values.1: 支持CDMA通信
+2342bb1618490a832d2846e203aa284c:command.263.2019.request.通信模块属性.2.values.0: 不支持TD-SCDMA通信
+35145b6a2253d4f22e917ad41632515e:command.263.2019.request.通信模块属性.2.values.1: 支持TD-SCDMA通信
+59f39102cdb47cd7c6497d39b5320203:command.263.2019.request.通信模块属性.3.values.0: 不支持WCDMA通信
+51f14a3b12391843b7da9a23c96d0ef1:command.263.2019.request.通信模块属性.3.values.1: 支持WCDMA通信
+09fdae0340b22fdc4f6d875156ff5ade:command.263.2019.request.通信模块属性.4.values.0: 不支持CDMA2000通信
+d57b1457f298fafe00c24f67db9ed9b2:command.263.2019.request.通信模块属性.4.values.1: 支持CDMA2000通信
+b9bcd10d403acf616b154f18d2b52044:command.263.2019.request.通信模块属性.5.values.0: 不支持TD-LTE通信
+6f7f1dd9dc113f6e52eff05c8b5576a7:command.263.2019.request.通信模块属性.5.values.1: 支持TD-LTE通信
+3b96dacf5af2169eb88737354f13d4a2:command.263.2019.request.通信模块属性.7.values.0: 不支持其他通信方式
+360ba95593389343ef0a58abbf478e13:command.263.2019.request.通信模块属性.7.values.1: 支持其他通信方式
+87d584d2609819a144dcd7387649e9ec:command.263.2019.request.通信模块属性.name: 通信模块属性
+be529571edc2d4072e44de0bcd068f06:command.263.cmd: 查询终端属性应答
+3afe51ed07ec053cbe8256798e2ff34b:command.3.cmd: 终端注销
+100a6958a882c2d22bfb8aa390a4552b:command.32769.cmd: 平台通用应答
+0d733f6d45b3c314556095af76e93208:command.32769.response.应答 ID.name: 应答 ID
+a4c88433f71501b5b8a52196d75807af:command.32769.response.应答流水号.name: 应答流水号
+dc5a7c98c471974a2eed07e715db3a1a:command.32769.response.结果.name: 结果
+6bdab593cc5f4f36ff5ef5478487fd4f:command.32769.response.结果.values.0: 成功/确认
+13478f0f2158edd32b1cb1962e9249c4:command.32769.response.结果.values.1: 失败
+8a19303ce7cf1f86b43c9caa3adbcfe6:command.32769.response.结果.values.2: 消息有误
+feb1e3c25368bd8c5d357215836ed2f2:command.32769.response.结果.values.3: 不支持
+47fbbb77b609d93fd28fec2dd4acb90a:command.32769.response.结果.values.4: 报警处理确认
+39b1dea570cdded46b2e33cee0ccbf36:command.33024.cmd: 终端注册应答
+7582a26b56ed64beec5f18e06069c885:command.33024.response.应答流水号.name: 应答流水号
+e59d530c7afd701eb45226f982103193:command.33024.response.结果.name: 结果
+4623b2a5e53383d606ea737a87c593f2:command.33024.response.鉴权码.name: 鉴权码
+bedd18d9335260f900800d747b29c59d:command.33027.cmd: 设置终端参数
+f3f6ae2dc0c7b2fe2810a5007300b2ff:command.33027.request.参数总数.name: 参数总数
+68687a2b6e8a3e131d2222c5cee7fa99:command.33027.request.参数项列表.name: 参数项列表
+6129133aa4d28bf3014577de3839843c:command.33028.cmd: 查询终端参数
+d2920ab53766046bec024759813f9d0c:command.33029.cmd: 终端控制
+05781a328c78db331fdc8359e31d95f0:command.33029.request.命令参数.name: 命令参数
+a70e41f2145dfcb7176bd7fbe445cc8a:command.33029.request.命令字.name: 命令字
+35c7a1690013ba38e162cb857f0cb163:command.33029.request.命令字.values.100: 断油电
+1a069f007b52437d6a394e41ca86490f:command.33029.request.命令字.values.101: 通油电
+c7ce3809e9b5218a5b3076183970e5a1:command.33029.request.命令字.values.102: 设防
+7716005096cd0d358b416320b4261f3f:command.33029.request.命令字.values.103: 撤防
+6b9224846b9607acae003c344f895998:command.33029.request.命令字.values.22: 远程开关机
+9ad2a3816a074e10e599fc2d1b43e1c2:command.33029.request.命令字.values.23: 开启远程录音
+7936ea2fdda28586c89a3d27cd363ec6:command.33029.request.命令字.values.24: 声控录音开关控制
+e1246a2a0a28aef951accddeebb7edb0:command.33029.request.命令字.values.25: 声控录音分贝阈值设置
+60a0f1d630394a48b167e827e67831a8:command.33029.request.命令字.values.4: 终端复位(重启)
+be6fddf75bb3f24ce6cb22d1d6cf4d15:command.33029.request.命令字.values.5: 终端恢复出厂设置
+7d7a4c1f1bb5d5f444e4263e17c4f331:command.33030.cmd: 查询指定终端参数
+d4440d34e4d2207b025daa64bd4cd55a:command.33030.request..name: 
+2f2128344c6c9abb45fdfd3ebe6c4733:command.33030.request.参数总数.name: 参数总数
+d371961afdcdd19396bb673be0554cf7:command.33031.cmd: 查询终端属性
+3048cb69341a529a9bc8856d1ff25e2a:command.33536.2013.request.文本信息.name: 文本信息
+8a5225492a1c0cf99d82d35f3bde487f:command.33536.2013.request.标志位.0.values.1: 紧急
+afc58da2646fb57cfabcd9f047c9c208:command.33536.2013.request.标志位.2.values.1: 终端显示器显示
+8a3111f978eadea7bf3f1eacc379a6f8:command.33536.2013.request.标志位.3.values.1: 终端 TTS 播读
+0740acc8e6d639b6aa2bf27705404948:command.33536.2013.request.标志位.name: 标志位
+22cf9c190b5eba88c42fca859000e4ac:command.33536.2019.request.文本信息.name: 文本信息
+997171309b423162baf9baf5c4275c5e:command.33536.2019.request.文本类型.name: 文本类型
+084a28c749b223819249ae31e63fb769:command.33536.2019.request.文本类型.values.1: 通知
+7a81b42c156eccd3cac409bd31867146:command.33536.2019.request.文本类型.values.2: 服务
+e5c6279570885f46dbd815e8e52bd846:command.33536.2019.request.标志位.0.values.1: 服务
+513cd2d0b029028cc3137dea0df63ddf:command.33536.2019.request.标志位.0.values.2: 紧急
+07743c5f1ca528a01f884cdfa6866a2a:command.33536.2019.request.标志位.0.values.3: 通知
+31104774aa98e57f26a979b75149c05b:command.33536.2019.request.标志位.2.values.1: 终端显示器显示
+afc4abbb60d18d4ef7edcbceac0b5c71:command.33536.2019.request.标志位.3.values.1: 终端 TTS 播读
+c404d6761f946893560ae0eb90f7827a:command.33536.2019.request.标志位.5.values.0: 中心导航信息
+3c6b1376cf03ef6dd2b0112db80cbbf4:command.33536.2019.request.标志位.5.values.1: CAN故障码信息
+fcb970aae897df3b10a4f28831b2cd88:command.33536.2019.request.标志位.name: 标志位
+adf0ec122bb998aac24adcff8d8ccb85:command.33536.cmd: 文本信息下发
+0143ca12f6b29f5c3505bde352743381:command.33540.cmd: 信息服务
+3e596ec1813b6dacb9a9943fa6b3eda5:command.33540.request.信息内容.name: 信息内容
+3a67c14dadb8f307b51d12867cd404e4:command.33540.request.信息类型.name: 信息类型
+2e088fe5f551d357bc56f25f09b62e43:command.33540.request.信息类型.values.78: 英文短信
+9b91af17cfca7fec12536dabe0ef7f48:command.33540.request.信息类型.values.79: 中文短信
+071b510bb12b78dde7f625109eb85247:command.33540.request.信息长度.name: 信息长度
+303127cb3bc7ae610743796907f95e60:command.35072.cmd: 数据下行透传
+25fe4441ee5eb0c4b43b2d69432d67c3:command.35072.request..name: 
+800a95479a26e4d4cdcf8ac498665472:command.36867.cmd: 查询终端音视频属性
+c24f829a223708aee5d645e40ac75b3e:command.37121.cmd: 实时音视频传输请求
+b2321026bfa26d3d73dd7222de4f7c3f:command.37121.request.数据类型.name: 数据类型
+95b6904938c7b6f5c7ac2b88c687c1e5:command.37121.request.数据类型.values.0: 音视频
+12977a789d3a863d954a8f3194d67f75:command.37121.request.数据类型.values.1: 视频
+a874b4a986229f5e812e7f07d8a1be6d:command.37121.request.数据类型.values.2: 双向对讲
+5597922423ceec2a191a0a14cc612df7:command.37121.request.数据类型.values.3: 监听
+c235c70f31b6543e7c20aa94793904d7:command.37121.request.数据类型.values.4: 中心广播
+2b842a6c47eeac7dfdba88b51132fd8a:command.37121.request.数据类型.values.5: 透传
+fb9633bf753963ec63b54c4e949e6f5e:command.37121.request.服务器 IP 地址.name: 服务器 IP 地址
+3b69e9b33786019512e1b51c5dc245ae:command.37121.request.服务器 IP 地址长度.name: 服务器 IP 地址长度
+7bce6403b946e64653526f648438b46c:command.37121.request.服务器TCP端口.name: 服务器TCP端口
+fc0117072cad0c5685c442f31f1693f4:command.37121.request.服务器UDP端口.name: 服务器UDP端口
+30635051e6b4ff3bb0d3214f06bdbb30:command.37121.request.码流类型.name: 码流类型
+262a32ca7774975b1357801aed5603bc:command.37121.request.码流类型.values.0: 主码流
+a87e9d8276c3fd9dbd4ded6bedc3ecb8:command.37121.request.码流类型.values.1: 子码流
+04190395b595c59cb93ca99292d01301:command.37121.request.逻辑通道号.name: 逻辑通道号
+c5d9fc52339e92510f96fb28acde45e8:command.37122.cmd: 音视频实时传输控制
+733855c69701ebebd16394a96b2bef38:command.37122.request.关闭音视频类型.name: 关闭音视频类型
+c6d5ca9943ca4cd0e01b7966a4c3a836:command.37122.request.关闭音视频类型.values.0: 关闭该通道有关的音视频数据
+b6a0f82e0b4a00ced89b0f4bd368a61d:command.37122.request.关闭音视频类型.values.1: 只关闭该通道有关的音频，保留该通道有关的视频
+2f4226638412e0f5b6e41f700d7ca5a5:command.37122.request.关闭音视频类型.values.2: 只关闭该通道有关的视频，保留该通道有关的音频
+4d34a712175d5ecb0f364547de9024ae:command.37122.request.切换码流类型.name: 切换码流类型
+d99873ea72155dc2647cecf208d418ca:command.37122.request.切换码流类型.values.0: 主码流
+13ef9de83eb77edcd45d33955ae749cf:command.37122.request.切换码流类型.values.1: 子码流
+32bf025f310192cffbd9b50af4e11ba1:command.37122.request.控制指令.name: 控制指令
+f58f6cf3a55c2915dcedf056fd45a9f8:command.37122.request.控制指令.values.0: 关闭音视频传输指令
+a89386f366c596948ad761ec1dafcc28:command.37122.request.控制指令.values.1: 切换码流（增加暂停和继续）
+3da1ce9820ba40a5089d566f069c0b33:command.37122.request.控制指令.values.2: 暂停该通道所有流的发送
+dc2ff237287996a97faea007e557e948:command.37122.request.控制指令.values.3: 恢复暂停前流的发送，与暂停前的流类型一致
+e6f8ed2f29ef1ed0a069273935d43a25:command.37122.request.控制指令.values.4: 关闭双向对讲
+97dc48c7dbae7697b9a70a001199990d:command.37122.request.逻辑通道号.name: 逻辑通道号
+db2d9e385679053d0f36e63777ffe810:command.37125.cmd: 实时音视频传输状态通知
+0afff6645125c8adb01a40038274117c:command.37125.request.丢包率.name: 丢包率
+663d97fc60ec44166e72d8cadf83ec9b:command.37125.request.逻辑通道号.name: 逻辑通道号
+1cddf1f7f901b9ad03442cdea2116834:command.4099.cmd: 终端上传音视频属性
+5934b39d6978ec19102077957915e320:command.4099.request.是否支持音频输出.name: 是否支持音频输出
+f8196fc0389a4004dd94807134f0dc44:command.4099.request.是否支持音频输出.values.0: 不支持
+a2302d1e0082a291400b5d362810f419:command.4099.request.是否支持音频输出.values.1: 支持
+1b050ec9eaa1f9f69c22585a8e122b2e:command.4099.request.终端支持的最大视频物理通道数量.name: 终端支持的最大视频物理通道数量
+7a987e3934ff53e3500ba39dfcc92090:command.4099.request.终端支持的最大音频物理通道数量.name: 终端支持的最大音频物理通道数量
+5a209b6f06ab2fe808b122254fb5659a:command.4099.request.视频编码方式.name: 视频编码方式
+42a8e1d3016ec7142e707966d3b65b3f:command.4099.request.输入音频声道数.name: 输入音频声道数
+baec0556992413aeff637639e93bd3e6:command.4099.request.输入音频编码方式.name: 输入音频编码方式
+8d06f850264910bd63a6e299dc5fbbba:command.4099.request.输入音频采样位数.name: 输入音频采样位数
+29fa7290597ead2d91f075ae18e1360a:command.4099.request.输入音频采样位数.values.0: 8 bit
+06e348d9e11fd57624234338845effa9:command.4099.request.输入音频采样位数.values.1: 16 bit
+a1e97f3fed280ea0ba357d0debb4f180:command.4099.request.输入音频采样位数.values.2: 32 bit
+1a57467732d33905728c026037939e01:command.4099.request.输入音频采样率.name: 输入音频采样率
+8845e1be89277ad677fa78c2ff56e1e6:command.4099.request.输入音频采样率.values.0: 8 kHz
+53a1900381f628d7b80c1fa3624f1ac5:command.4099.request.输入音频采样率.values.1: 22.05 kHz
+47abed4094e87ba26c71fa7a1c3aad05:command.4099.request.输入音频采样率.values.2: 44.1 kHz
+5cc180ed95ad10a111e1161e288519df:command.4099.request.输入音频采样率.values.3: 48 kHz
+36a286f9bc040f6aad8060fbf981960f:command.4099.request.音频帧长度.name: 音频帧长度
+4ade43b8ef80717ccaf66b5806876132:command.512.cmd: 位置信息汇报
+f45f164b4f897790b9ef3bedb5c670be:command.512.request..name: 
+874834f66318ef0cf42fea1c9ec59c56:command.772.cmd: 信息服务应答
+ddb838538fb9ec00e1a8a040f063fb38:command.772.request.信息内容.name: 信息内容
+6d660ad14c07a5c634af0094202e5dc0:command.772.request.信息长度.name: 信息长度
+13ae50bd37b3118c3e07caf949e8e176:command.772.request.应答信息类型.name: 应答信息类型
+5ef5f71831e8fc6b8e403742c18ca720:command.772.request.应答信息类型.values.78: 英文短信
+ddfae11cd0ebaa89a400901c4975dc86:command.772.request.应答信息类型.values.79: 中文短信
+0b5e552dd00e909a92a83d7cfdbf38cf:command.772.request.应答流水号.name: 应答流水号
+59a395d52c74a5777edae53f99d4d8ab:footer.标识位.name: 标识位
+9d7e1c9d72f43b843aa12cabe2c09aa6:footer.校验码.name: 校验码
+9784e837b4004b2173845d4d684ac4ea:header.126.标识位.name: 标识位
+76002d18f028e6763bde722903dc9e66:header.126.消息 ID.name: 消息 ID
+68ea8ef2fa5ffde3ea979e1fb0291d96:header.126.消息体属性.0.description: 消息体长度
+683b66cfff00327f5bc07049bb72721c:header.126.消息体属性.10.description: 数据加密方式
+9da4f20839e13e3b93353778b6c3dca9:header.126.消息体属性.13.values.0: 不分包
+6c54751ac601ad5da6af627fbf9a3ff2:header.126.消息体属性.13.values.1: 分包
+04335d52d819925a2891c485cc77e136:header.126.消息体属性.14.description: 版本标识
+a12f533cfb7a5d3791c29ae777ca018e:header.126.消息体属性.name: 消息体属性
+dcccce4175b07d1e0c5ad2376250da57:header.126.消息包封装项.name: 消息包封装项
+10c857f2d222b4a79080bfc8c755c422:header.126.消息流水号.name: 消息流水号
+c56bf5903202d0c8e4bfd4c56a35da7d:header.126.终端手机号.name: 终端手机号
+c95e2468846d8643ca0a977ef6a8885b:header.32256.协议版本号.name: 协议版本号
+02bcc87d498a7e29982ddb0dc3b17987:header.32256.标识位.name: 标识位
+fce6facc9096bb00a480005fa888fc50:header.32256.消息 ID.name: 消息 ID
+13f95b169d2b13de342438bb6df3a08b:header.32256.消息体属性.0.description: 消息体长度
+ae8a5dcca30b70fcea14a39cea0283d3:header.32256.消息体属性.10.description: 数据加密方式
+028d273327f2d86e5980e1efc144a868:header.32256.消息体属性.13.values.0: 不分包
+d6918f4fafd4ba48f2c86d269b321f05:header.32256.消息体属性.13.values.1: 分包
+e255c96498f7e36447e626d3fe9aaf1c:header.32256.消息体属性.14.description: 版本标识
+94e6dd218d5bb44428adc031fa0afd9f:header.32256.消息体属性.name: 消息体属性
+6380a67a646cfab3c0afc143d867b2b1:header.32256.消息包封装项.name: 消息包封装项
+769d96f0b0cdb1b7bbb08ae174f4b1f0:header.32256.消息流水号.name: 消息流水号
+0bc342f72b4d0198f5478334d0a6f57d:header.32256.终端手机号.name: 终端手机号
+83d96397d27026cdd64bc0112f2b4c77:struct.位置汇报数据体.name: 位置汇报数据体
+69367a394ae63542c087c24f8e5f57d5:struct.位置汇报数据体.报警标志.name: 报警标志
+2fcc441ffcd97b00bfc5b5063344de61:struct.位置汇报数据体.方向.name: 方向
+04759089144f095393006ca2a7431a37:struct.位置汇报数据体.时间.name: 时间
+02968ed0c71ed6786d1eb47fb562b415:struct.位置汇报数据体.状态.0.values.0: ACC 关
+4bf20cf0e3c5fb291add6f848fe94b2a:struct.位置汇报数据体.状态.0.values.1: ACC 开
+102a0cce0cf185f3da00098fffb8f458:struct.位置汇报数据体.状态.1.values.0: 未定位
+2657500ccc6e883fd1b70961914e3f55:struct.位置汇报数据体.状态.1.values.1: 定位
+eeb8b3ecda31f34ab65b5935c4432f30:struct.位置汇报数据体.状态.10.values.0: 车辆油路正常
+330e34cd39d5d6ae6c3c50b5df471034:struct.位置汇报数据体.状态.10.values.1: 车辆油路断开
+0bbe8d1f7dedb2090065ad33b929d99b:struct.位置汇报数据体.状态.11.values.0: 车辆电路正常
+eb9f0de0e49bb162f2e41675a62fc0e0:struct.位置汇报数据体.状态.11.values.1: 车辆电路断开
+50db3c7180cf502ff60114b5e813a3ed:struct.位置汇报数据体.状态.12.values.0: 车门解锁
+bce29a18fd6195b6992776540c5fbf13:struct.位置汇报数据体.状态.12.values.1: 车门加锁
+27f7e3bd4f741f02e563f879df65ab9f:struct.位置汇报数据体.状态.13.values.0: 门 1 关
+7c04fedd93e0d416c8a7c694e75fc925:struct.位置汇报数据体.状态.13.values.1: 门 1 开
+7db5b7100c526d4790da7fb386f4469e:struct.位置汇报数据体.状态.14.values.0: 门 2 关
+1ee24f1d4d387bc6d62b9e45c521aa58:struct.位置汇报数据体.状态.14.values.1: 门 2 开
+e58f933be129ed995f74bd3434943c68:struct.位置汇报数据体.状态.15.values.0: 门 3 关
+ccbcf34b43b790cd0c07808dd160bc5a:struct.位置汇报数据体.状态.15.values.1: 门 3 开
+e4c202373e44c7a6ae6174d48155eb71:struct.位置汇报数据体.状态.16.values.0: 门 4 关
+34bbccf92d0e13e6e1b17836f48045b3:struct.位置汇报数据体.状态.16.values.1: 门 4 开
+bf7ce45cdce2c154e4880d2d1169f3c2:struct.位置汇报数据体.状态.17.values.0: 门 5 关
+50adc195dfa55dd1100d67e342e6f372:struct.位置汇报数据体.状态.17.values.1: 门 5 开
+5740293596cd57cfc432147c433afa03:struct.位置汇报数据体.状态.18.values.0: 未使用 GPS 卫星进行定位
+f519ebc93539bae887d8190478fc944c:struct.位置汇报数据体.状态.18.values.1: 使用 GPS 卫星进行定位
+678487d899d41eda85babb818d258831:struct.位置汇报数据体.状态.19.values.0: 未使用北斗卫星进行定位
+574724a90641d107d2432df94979f19b:struct.位置汇报数据体.状态.19.values.1: 使用北斗卫星进行定位
+d0ea7a77e9298fca3b2d6653ed0d88c0:struct.位置汇报数据体.状态.2.values.0: 北纬
+a385098c5c04f2097f75642b65fc335f:struct.位置汇报数据体.状态.2.values.1: 南纬
+09b4bc91937fe2d310095337b0b16825:struct.位置汇报数据体.状态.20.values.0: 未使用 GLONASS 卫星进行定位
+a32dd39af3e4a24c1c22376169faaab0:struct.位置汇报数据体.状态.20.values.1: 使用 GLONASS 卫星进行定位
+0e9456c6f9bd283ef0ee29440e516fc8:struct.位置汇报数据体.状态.21.values.0: 未使用 Galileo 卫星进行定位
+50914baa239fde3009eede77cde7961b:struct.位置汇报数据体.状态.21.values.1: 使用 Galileo 卫星进行定位
+2b0562cacba1d25ab5cc587a57ba94c7:struct.位置汇报数据体.状态.3.values.0: 东经
+70e95e6aa8e53872f7c3561843fb01ac:struct.位置汇报数据体.状态.3.values.1: 西经
+1f365c160c8ba18e7a3ede140a1bdbd3:struct.位置汇报数据体.状态.4.values.0: 运营状态
+2abb784728656653d4925adb2749ad4a:struct.位置汇报数据体.状态.4.values.1: 停运状态
+c90f7f3bc28310598d2936944eee20ce:struct.位置汇报数据体.状态.5.values.0: 经纬度未经保密插件加密
+4f00be460ad8d7182fa10fe94a17f439:struct.位置汇报数据体.状态.5.values.1: 经纬度已经保密插件加密
+2f52d1eabaa3a7d21c9b81d64cae175f:struct.位置汇报数据体.状态.8.values.0: 空车
+c8506353c92808847781315d643b93ff:struct.位置汇报数据体.状态.8.values.1: 半载
+9edc1e629c89083de8bf7d1bfe805873:struct.位置汇报数据体.状态.8.values.2: 保留
+9c5b5344c6ae489b56f6ca2b64ec57a7:struct.位置汇报数据体.状态.8.values.3: 满载
+d8d41e67c99ceba08ee10e8b5199c8dd:struct.位置汇报数据体.状态.name: 状态
+9c36cf935ef0da8477d3b24cf8fbcc90:struct.位置汇报数据体.纬度.name: 纬度
+a6ef83db4eee7515baf304ce7ed55698:struct.位置汇报数据体.经度.name: 经度
+1a2f70d930922ffc4149720f2cf427d6:struct.位置汇报数据体.速度.name: 速度
+ae1075536fe8bc969292a161cc139103:struct.位置汇报数据体.附加信息项列表.name: 附加信息项列表
+5d44de8527e0781e9099236ecf58ade7:struct.位置汇报数据体.高程.name: 高程
+abeeebb30b4a0e906daf451c93db3e22:struct.位置汇报数据项.name: 位置汇报数据项
+65ac915952d849f2ef5f559bb1a6bf41:struct.位置汇报数据项.位置汇报数据体.name: 位置汇报数据体
+014b29f36a1639f8075752d37922a404:struct.位置汇报数据项.位置汇报数据体长度.name: 位置汇报数据体长度
+db7872a981d431833514c8be1fb05a09:struct.单独视频通道参数设置.name: 单独视频通道参数设置
+ddce8b6177fd07ea65603b12a7c8ff4f:struct.单独视频通道参数设置.单独通道视频参数设置列表.name: 单独通道视频参数设置列表
+d746ca4f39bc64fa50b1398132d82d84:struct.单独视频通道参数设置.设置通道数量.name: 设置通道数量
+2e91380a12393385cf78660001ed05e0:struct.单独通道视频参数.OSD 字幕叠加设置.0.description: 日期和时间
+5640de9a0dccea3d4f7a835c06dc2eae:struct.单独通道视频参数.OSD 字幕叠加设置.0.values.0: 不叠加
+34dd0e8f5c6e4b475db0bb81c7f1fb22:struct.单独通道视频参数.OSD 字幕叠加设置.0.values.1: 叠加
+4e2b21080f047c2ff0fa2e7315767bca:struct.单独通道视频参数.OSD 字幕叠加设置.1.description: 车牌号码
+d3bb1ff82d86265730d19ac19f2392f5:struct.单独通道视频参数.OSD 字幕叠加设置.1.values.0: 不叠加
+0b03818f7a77ea86ac8c5d4d7facdc51:struct.单独通道视频参数.OSD 字幕叠加设置.1.values.1: 叠加
+ba6635fc7d0c360728e857fdbc16bd8b:struct.单独通道视频参数.OSD 字幕叠加设置.2.description: 逻辑通道号
+487035fae115c921295652c2b1c5f27b:struct.单独通道视频参数.OSD 字幕叠加设置.2.values.0: 不叠加
+93672d1f0af5d9d66dcf1b7174cb34f9:struct.单独通道视频参数.OSD 字幕叠加设置.2.values.1: 叠加
+bc4d4d3df763d9166990f93685854ca6:struct.单独通道视频参数.OSD 字幕叠加设置.3.description: 经纬度
+b85bfb49165dce8330e8386b9ae985a4:struct.单独通道视频参数.OSD 字幕叠加设置.3.values.0: 不叠加
+e370322b09df0b548fbc90835514b8ec:struct.单独通道视频参数.OSD 字幕叠加设置.3.values.1: 叠加
+226f550bac16d85a2ee37aa59ce3d9cd:struct.单独通道视频参数.OSD 字幕叠加设置.4.description: 行驶记录速度
+3c066cb31f2f6c69b9bbfcf554549ad0:struct.单独通道视频参数.OSD 字幕叠加设置.4.values.0: 不叠加
+cae376a6061961e952843ebe61369f73:struct.单独通道视频参数.OSD 字幕叠加设置.4.values.1: 叠加
+f12da0bc99693d567fec1f7a1598d13a:struct.单独通道视频参数.OSD 字幕叠加设置.5.description: 卫星定位速度
+eb9fc44dea4a81f8aed7d2ae81c6fe78:struct.单独通道视频参数.OSD 字幕叠加设置.5.values.0: 不叠加
+eec9acf888a0d9c483c31515917b6c6e:struct.单独通道视频参数.OSD 字幕叠加设置.5.values.1: 叠加
+db6f22c564dfef05b8f0ddc9c2818717:struct.单独通道视频参数.OSD 字幕叠加设置.6.description: 连续驾驶时间
+99744ebcdf34fb8f3efde7421285932e:struct.单独通道视频参数.OSD 字幕叠加设置.6.values.0: 不叠加
+6f3d10d4e6e2dc81e8b911f6fc8dca7d:struct.单独通道视频参数.OSD 字幕叠加设置.6.values.1: 叠加
+c22411d14335f2027f094406152a4c03:struct.单独通道视频参数.OSD 字幕叠加设置.name: OSD 字幕叠加设置
+b1bb3d75be51e7362287d473f39d2996:struct.单独通道视频参数.name: 单独通道视频参数
+c4abb39f64181bceaec9efc28c487ef7:struct.单独通道视频参数.存储流关键帧间隔.name: 存储流关键帧间隔
+072c7742a2e65ffc10e3e1387bd5dfc1:struct.单独通道视频参数.存储流目标帧率.name: 存储流目标帧率
+90bc9e25d464123f0eaac7649251cbd8:struct.单独通道视频参数.存储流目标码率.name: 存储流目标码率
+97f5fef834ab54f04f34c2fefd2c88fd:struct.单独通道视频参数.存储流编码模式.name: 存储流编码模式
+2847dc604d394629bd6f8f1fd4691068:struct.单独通道视频参数.存储流编码模式.values.0: CBR
+76301c035107d647888ccb87472adf19:struct.单独通道视频参数.存储流编码模式.values.1: VBR
+802f8d03f746adcfd91629dfce1ba62c:struct.单独通道视频参数.存储流编码模式.values.2: ABR
+b7d4e8314e42a2d908cc66a220870c46:struct.单独通道视频参数.实时流关键帧间隔.name: 实时流关键帧间隔
+f319691ccf57e774b93c9228c27ffd28:struct.单独通道视频参数.实时流分辨率.name: 实时流分辨率
+8cee86b8df52ec42dd097182c957d206:struct.单独通道视频参数.实时流分辨率.values.0: QCIF
+13ad01df2fd45a491be28736c0e1a199:struct.单独通道视频参数.实时流分辨率.values.1: CIF
+be34749723d06e4961b696136fcea1ae:struct.单独通道视频参数.实时流分辨率.values.2: WCIF
+f1f79b9f70acd8222f67319b7511b395:struct.单独通道视频参数.实时流分辨率.values.3: D1
+37198830af74e3825cb4d866078a4225:struct.单独通道视频参数.实时流分辨率.values.4: WD1
+4031385834842465c2e0360f8fa33753:struct.单独通道视频参数.实时流分辨率.values.5: 720P
+6629360a94c67802ea44160374efcce3:struct.单独通道视频参数.实时流分辨率.values.6: 1080P
+04b72e44b7b28dacbc435d423b183d57:struct.单独通道视频参数.实时流目标帧率.name: 实时流目标帧率
+f6d62fd4d2b7dbaa62f737336cf4dc43:struct.单独通道视频参数.实时流目标码率.name: 实时流目标码率
+705b057d3142ef8ccab099723dd075d4:struct.单独通道视频参数.实时流编码模式.name: 实时流编码模式
+ae52b5ad9220ef5ea28402960d3fcff8:struct.单独通道视频参数.实时流编码模式.values.0: CBR
+6c8dbb0e02ac5e75f06c9293ee16c897:struct.单独通道视频参数.实时流编码模式.values.1: VBR
+299da0003ef7093414bc5cafd085723a:struct.单独通道视频参数.实时流编码模式.values.2: ABR
+b3a692b3479c49bedd82cf9eeba7a884:struct.单独通道视频参数.逻辑通道号.name: 逻辑通道号
+4ea330d754369a56228bc35d8fa8d48b:struct.参数项.name: 参数项
+ead0502135d0993b3d110d03bc1305b8:struct.参数项.参数 ID.name: 参数 ID
+219252339bd137149d22d47e3b648b1f:struct.参数项.参数 ID.values.1: 终端心跳发送间隔|单位为(s)
+4d41ac7620c9ae4785bb34dae046258f:struct.参数项.参数 ID.values.117: 音视频参数设置
+bf4b2d414573325bd4b650b17dba2f80:struct.参数项.参数 ID.values.118: 音视频通道列表设置
+f5901270a26a5cd3e389c3b535c2b184:struct.参数项.参数 ID.values.119: 单独视频通道参数设置
+11f75597ca1f439923ad50e60a149c0f:struct.参数项.参数 ID.values.121: 特殊报警录像参数设置
+f961fdf1f811a2a55c8a001f18b69801:struct.参数项.参数 ID.values.122: 视频相关报警屏蔽字
+1484792cc13df3106fff2ff794a59c7d:struct.参数项.参数 ID.values.123: 图像分析报警参数设置
+f089094861891a34dffddefa8fb62f44:struct.参数项.参数 ID.values.124: 终端休眠唤醒模式设置
+79bc740ecc47658522d7736209d18213:struct.参数项.参数 ID.values.128: 车辆里程表读数|1/10km
+d72d39ca14a8064b6e9c965bae2249ce:struct.参数项.参数 ID.values.129: 车辆所在的省域 ID|1~255
+aa56418e544fc08211c4b508f68eb9cf:struct.参数项.参数 ID.values.130: 车辆所在的市域 ID|1~255
+041ea4377d62c253c4589a83afaffd14:struct.参数项.参数 ID.values.131: 公安交通同管理部门颁发的机动车号牌
+01ffd18b7104821a27bca4142f3445b9:struct.参数项.参数 ID.values.132: 车牌颜色
+80a8ca9144f0163f5115f5d8e68f7e56:struct.参数项.参数 ID.values.16: 主服务器 APN|无线通信拨号访问点。
+befa0fb6a4173581779bcb55e1afe279:struct.参数项.参数 ID.values.19: 主服务器地址|IP或域名
+c70d97d7977ca3adb5f4b70f8f086cb5:struct.参数项.参数 ID.values.23: 备份服务器地址|IP或域名
+ddcf6695745de3b11174bcd90f1f365d:struct.参数项.参数 ID.values.24: 服务器 TCP 端口
+c2a74200f79406e9cea6294d54fe14ef:struct.参数项.参数 ID.values.32: 位置汇报策略|0@_@ 定时汇报; 1@_@ 定距汇报; 2@_@ 定时和定距汇报
+854ebd3f4d533d7c5a4b655fb237472c:struct.参数项.参数 ID.values.39: 休眠时汇报时间间隔|单位为秒(s),>0
+62f927b456fd4c6275bb147bd17bc392:struct.参数项.参数 ID.values.41: 缺省时间汇报间隔|单位为秒(s),>0
+e855357511c5b2ac85fa828bc6587a8b:struct.参数项.参数 ID.values.44: 缺省距离汇报间隔|单位为米(m),>0
+bfc84bc5e52b5b50b1cf90b0777829db:struct.参数项.参数 ID.values.48: 拐点补传角度|<180
+89ae08ef39e6750f1efb7ab349594e28:struct.参数项.参数 ID.values.50: 工作模式|0@_@ 关闭休眠; 1@_@ 静止超过 10 分钟关闭 GPS, 但不关闭 GPRS, 设备保持在线; 2@_@ 静止超过 10 分钟关闭 GPS, 关闭 GPRS, 设备将会离线。默认工作模式为 1
+9423ded89a2651699b9a5e2f0fcb0239:struct.参数项.参数 ID.values.51: 终端软件版本号
+bc6ef38dc236ba8bd3129ebab958a185:struct.参数项.参数 ID.values.75: 设备 GPS 信号详细信息
+0c1d8ac563eb45edf25217a2cdf0d02f:struct.参数项.参数 ID.values.76: 设备 BDS 信号详细信息
+562137558b568afcd0387e69ebad133d:struct.参数项.参数 ID.values.85: 最高速度|单位为千米每小时(km/h)
+3eacd54bacadd897bd07228d72b91609:struct.参数项.参数 ID.values.86: 超速持续时间|单位为秒(s)
+e474a6b155ac01ddf74ce4fb451c6101:struct.参数项.参数 ID.values.93: 碰撞报警参数设置|b7-b0@_@ 碰撞时间, 单位 4ms; b15-b8@_@ 碰撞加速度, 单位 0.1g, 设置范围在@_@ 0-79 之间, 默认为15
+eb0833ef4bf3c2ffc9f4e1d8f3dc653e:struct.参数项.参数 ID.values.94: 侧翻报警参数设置|侧翻角度, 单位 1 度, 默认为 30
+6dfda4da1c27587ad10789724d2d55ed:struct.参数项.参数值.name: 参数值
+1762cf2b904d9236a26f93af0c67f17c:struct.参数项.参数长度.name: 参数长度
+215c65135fc2b37ef74c3524bef241f7:struct.数据透传消息体.name: 数据透传消息体
+dfc27fef79d267dca9903a4b0ab6286d:struct.数据透传消息体.透传消息内容.name: 透传消息内容
+262772fae583060e2a886f1ae17a0024:struct.数据透传消息体.透传消息类型.name: 透传消息类型
+4d860f84cf94a6ae0ddbac4aa19de7ab:struct.数据透传消息体.透传消息类型.values.0: GNSS 模块详细定位数据
+435d56d760769f889554ef2b20965f46:struct.数据透传消息体.透传消息类型.values.11: 道路运输证 IC 卡信息
+6d61f4d2e0356b8ac86d06050cf53f2e:struct.数据透传消息体.透传消息类型.values.224: 录音数据上传
+1bd630e317cfb689f3b043ddcf9cdace:struct.数据透传消息体.透传消息类型.values.225: 温湿度数据
+94ebc9222160f99bff2fdfc10f956ed0:struct.数据透传消息体.透传消息类型.values.65: 串口 1 透传
+2c7cf240abbb991b9edaf6477cdf88bc:struct.数据透传消息体.透传消息类型.values.66: 串口 2 透传
+0cbb3d52f95bba3e4381f6b1d59e036a:struct.消息包封装项.name: 消息包封装项
+145a50758a27d0921f27d4cbadde0c64:struct.消息包封装项.包序号.name: 包序号
+b60d5c5f7550047316ad8d14898424c7:struct.消息包封装项.消息总包数.name: 消息总包数
+4df9ace99206003aa769132bc76abcf4:struct.特殊报警录像参数设置.name: 特殊报警录像参数设置
+9d87c9fb4edc6aecebb9d3e5cbab2ed7:struct.特殊报警录像参数设置.特殊报警录像存储阈值.name: 特殊报警录像存储阈值
+550ea9d4bbef19b39c7fc80fd2206c1d:struct.特殊报警录像参数设置.特殊报警录像持续时间.name: 特殊报警录像持续时间
+5b7b16e237b5714ef521bb8642bc8e2a:struct.特殊报警录像参数设置.特殊报警标识起始时间.name: 特殊报警标识起始时间
+2c3cb6eacc466b648336280a23c345be:struct.通用参数1.name: 通用参数1
+092b7b51f86357d8dc4c96bc4a92eb4e:struct.通用参数1.参数 ID.name: 参数 ID
+24e403db39cd2d374900650e80bc9461:struct.通用参数1.参数 ID.values.1: 终端心跳发送间隔|单位为(s)
+8a9246ae1c48b1b9daadb45bc597fea8:struct.通用参数1.参数 ID.values.128: 车辆里程表读数|1/10km
+a2098a2a7f52b23267374e4f0c111e5a:struct.通用参数1.参数 ID.values.129: 车辆所在的省域 ID|1~255
+8e0e43d36c350f782ce63a6444ff9d4b:struct.通用参数1.参数 ID.values.130: 车辆所在的市域 ID|1~255
+bc54b509a22448549d8a7e134a9d4537:struct.通用参数1.参数 ID.values.131: 公安交通同管理部门颁发的机动车号牌
+0e57ec0fb77032db8fd295a6793c565f:struct.通用参数1.参数 ID.values.132: 车牌颜色
+cd9861590e03450ca1d3d28ddbf11226:struct.通用参数1.参数 ID.values.16: 主服务器 APN|无线通信拨号访问点。
+8d814e21e5dd69687e5beea03fcbcec3:struct.通用参数1.参数 ID.values.19: 主服务器地址|IP或域名
+c9c12feb6aff26b97fe9e8b3e3283805:struct.通用参数1.参数 ID.values.23: 备份服务器地址|IP或域名
+d855beac3b62b0e60f07238b2f71d7c5:struct.通用参数1.参数 ID.values.24: 服务器 TCP 端口
+e753b0046f5e8e5c0250ff3f8acceb6b:struct.通用参数1.参数 ID.values.32: 位置汇报策略|0@_@ 定时汇报; 1@_@ 定距汇报; 2@_@ 定时和定距汇报
+5f63eb54e5090908921c378290f227ab:struct.通用参数1.参数 ID.values.39: 休眠时汇报时间间隔|单位为秒(s),>0
+5084136496e647097cfb603c50557353:struct.通用参数1.参数 ID.values.41: 缺省时间汇报间隔|单位为秒(s),>0
+42e7a36fbf749b9e2cd2c7814f69e277:struct.通用参数1.参数 ID.values.44: 缺省距离汇报间隔|单位为米(m),>0
+178451f1bdbc4618b625b869cb821c15:struct.通用参数1.参数 ID.values.48: 拐点补传角度|<180
+c35147865ecf30b6d311d091af4eb02e:struct.通用参数1.参数 ID.values.50: 工作模式|0@_@ 关闭休眠; 1@_@ 静止超过 10 分钟关闭 GPS, 但不关闭 GPRS, 设备保持在线; 2@_@ 静止超过 10 分钟关闭 GPS, 关闭 GPRS, 设备将会离线。默认工作模式为 1
+7ef74c670fd1f0f0f43a61e42404a949:struct.通用参数1.参数 ID.values.51: 终端软件版本号
+5c9b1ff882eb3a3c40cbc8980c774580:struct.通用参数1.参数 ID.values.75: 设备 GPS 信号详细信息
+d61a5815f9d25ec5df745692db172c75:struct.通用参数1.参数 ID.values.76: 设备 BDS 信号详细信息
+5373e3f44a4be435db0eae94bdff655d:struct.通用参数1.参数 ID.values.85: 最高速度|单位为千米每小时(km/h)
+a30a90b0a9d946fe694c2d76a80960be:struct.通用参数1.参数 ID.values.86: 超速持续时间|单位为秒(s)
+97e5f2fa43d9a30f2f2a8f4710d151a2:struct.通用参数1.参数 ID.values.93: 碰撞报警参数设置|b7-b0@_@ 碰撞时间, 单位 4ms; b15-b8@_@ 碰撞加速度, 单位 0.1g, 设置范围在@_@ 0-79 之间, 默认为15
+3ce6289f5044c525a5ee217aba2635a1:struct.通用参数1.参数 ID.values.94: 侧翻报警参数设置|侧翻角度, 单位 1 度, 默认为 30
+824dda0d17c9bdf232fd1fdb806e60f4:struct.附加信息项.name: 附加信息项
+42b71e846c8856da5ef10432b52e1b42:struct.附加信息项.附加信息 ID.name: 附加信息 ID
+6da06d8de306a4141075d8a81f38c0dc:struct.附加信息项.附加信息.name: 附加信息
+5d726f05ab16c48c958a6f758412eb41:struct.附加信息项.附加信息长度.name: 附加信息长度
+a919d6fa4cb56d6836a5ee5ee4c952fd:struct.音视频参数设置.OSD 字幕叠加设置.0.description: 日期和时间
+43d961642be9f2b5866f46cde6905b15:struct.音视频参数设置.OSD 字幕叠加设置.0.values.0: 不叠加
+8110a9b851ad76aaac4c3496dc809f3f:struct.音视频参数设置.OSD 字幕叠加设置.0.values.1: 叠加
+00989941d816cae3ed5e9057bf73814a:struct.音视频参数设置.OSD 字幕叠加设置.1.description: 车牌号码
+5031ac4edc9aa80f4e135702c7e7b4c4:struct.音视频参数设置.OSD 字幕叠加设置.1.values.0: 不叠加
+0e143bcdc2fde879d0fa9121b19b877a:struct.音视频参数设置.OSD 字幕叠加设置.1.values.1: 叠加
+7910ac31046729cafc3d58b2ecf72584:struct.音视频参数设置.OSD 字幕叠加设置.2.description: 逻辑通道号
+48e3675fd5945fb0ebeeb9be303cfc0c:struct.音视频参数设置.OSD 字幕叠加设置.2.values.0: 不叠加
+daafe2b31c948430a9fecaa876b488ba:struct.音视频参数设置.OSD 字幕叠加设置.2.values.1: 叠加
+227c20e58d09330299f677515e86218e:struct.音视频参数设置.OSD 字幕叠加设置.3.description: 经纬度
+f9514e412a62b5ebdec45122244d1e8e:struct.音视频参数设置.OSD 字幕叠加设置.3.values.0: 不叠加
+267aa17bfac07d2698529912cc712c0c:struct.音视频参数设置.OSD 字幕叠加设置.3.values.1: 叠加
+33448a9112dec3161df9262633ce8960:struct.音视频参数设置.OSD 字幕叠加设置.4.description: 行驶记录速度
+5c94ff9d43743f9612cc078d1cc03f42:struct.音视频参数设置.OSD 字幕叠加设置.4.values.0: 不叠加
+e7a67d3b242831fdf1c0ce75f92691a8:struct.音视频参数设置.OSD 字幕叠加设置.4.values.1: 叠加
+0b230b232b1117e53da6000056acb295:struct.音视频参数设置.OSD 字幕叠加设置.5.description: 卫星定位速度
+c7b9bced06701456b2d789dda0d54a12:struct.音视频参数设置.OSD 字幕叠加设置.5.values.0: 不叠加
+41aca7ff03165ecd973fd7d0ee79428a:struct.音视频参数设置.OSD 字幕叠加设置.5.values.1: 叠加
+5f6f3d83b618aa5f3be9b304c14e61d4:struct.音视频参数设置.OSD 字幕叠加设置.6.description: 连续驾驶时间
+ddc112414e887a838dfc3991e3a00bbd:struct.音视频参数设置.OSD 字幕叠加设置.6.values.0: 不叠加
+7446cb462f974692fb5fadbb347f283b:struct.音视频参数设置.OSD 字幕叠加设置.6.values.1: 叠加
+f957eba2f038a3ce589b456f3e700d20:struct.音视频参数设置.OSD 字幕叠加设置.name: OSD 字幕叠加设置
+196952c1b9c78b2fab3f335903cb49de:struct.音视频参数设置.name: 音视频参数设置
+57b87b646464dfec78ced0df3c1ae0fa:struct.音视频参数设置.存储流关键帧间隔.name: 存储流关键帧间隔
+d90c940425ba337e7761f11cdeff3418:struct.音视频参数设置.存储流目标帧率.name: 存储流目标帧率
+55226ce3428eddc8ffee32ea7959936f:struct.音视频参数设置.存储流目标码率.name: 存储流目标码率
+3fcd1720ea1c4bf1acf7089f16d11d97:struct.音视频参数设置.存储流编码模式.name: 存储流编码模式
+91fa81bffb48be905da94c04ed9fcda0:struct.音视频参数设置.存储流编码模式.values.0: CBR
+0a2b36ad8a53dde2ff7270c2801c2813:struct.音视频参数设置.存储流编码模式.values.1: VBR
+913e5ff8bdaa03b5bb30f93d95957c67:struct.音视频参数设置.存储流编码模式.values.2: ABR
+dc7404e16aa82fa0800ced054809116a:struct.音视频参数设置.实时流关键帧间隔.name: 实时流关键帧间隔
+f2a9361f5e9027aacb9b1b8508ad9fd6:struct.音视频参数设置.实时流分辨率.name: 实时流分辨率
+6dd1fd5b364455a0827ef81c38846d00:struct.音视频参数设置.实时流分辨率.values.0: QCIF
+c43a9ea54bfa42f209588bf2cb982e9c:struct.音视频参数设置.实时流分辨率.values.1: CIF
+1acbe471948c8b51cd71742250ef9a3e:struct.音视频参数设置.实时流分辨率.values.2: WCIF
+389bec0123f48cf459cc60c993163f0d:struct.音视频参数设置.实时流分辨率.values.3: D1
+844f1366232efd75248b8cb8e56c888a:struct.音视频参数设置.实时流分辨率.values.4: WD1
+17a402fdf69f62dfda65837bd92b423e:struct.音视频参数设置.实时流分辨率.values.5: 720P
+157e6829b1c614778bade153f197633c:struct.音视频参数设置.实时流分辨率.values.6: 1080P
+f8e748d925869c6fcea320436f08aa68:struct.音视频参数设置.实时流目标帧率.name: 实时流目标帧率
+a58e5619f0a65efceaea134f13a7520d:struct.音视频参数设置.实时流目标码率.name: 实时流目标码率
+96fa837857fce4bd36d678412d6d0421:struct.音视频参数设置.实时流编码模式.name: 实时流编码模式
+253ace36c253e55c952bb238de4688ad:struct.音视频参数设置.实时流编码模式.values.0: CBR
+a7f837e7d2a1a05c2eb191e7e4865e25:struct.音视频参数设置.实时流编码模式.values.1: VBR
+c7971c7e5be06e5fc7be6c53b7bb5134:struct.音视频参数设置.实时流编码模式.values.2: ABR
+384bcc353267e8a657cbe682099ef6ad:struct.音视频参数设置.是否启用音频输出.name: 是否启用音频输出
+408d8624138beb5174361186353d5f5b:struct.音视频参数设置.是否启用音频输出.values.0: 不启用
+55c9ad3b7ed856406e246a390285d291:struct.音视频参数设置.是否启用音频输出.values.1: 启用
+1925359411958795cc1334f22f490502:struct.音视频通道列表设置.name: 音视频通道列表设置
+9b4d325c7a5257f9e53a931d5a1dbdfd:struct.音视频通道列表设置.视频通道总数.name: 视频通道总数
+29782d60b1a6d56a2d42f65592416290:struct.音视频通道列表设置.音视频通道对照表.name: 音视频通道对照表
+3610e49a1c250221c65cceca6058b213:struct.音视频通道列表设置.音视频通道总数.name: 音视频通道总数
+0b2d47a81c97b3fe2b2172af091ef724:struct.音视频通道列表设置.音频通道总数.name: 音频通道总数
+d4104117d8fdf4d63cf33c7303555b34:struct.音视频通道对照表.name: 音视频通道对照表
+5a5c572674cc2bef99fdd09e31205743:struct.音视频通道对照表.是否连接云台.name: 是否连接云台
+3dd82d7e54b0eef32de6776219d53e2a:struct.音视频通道对照表.是否连接云台.values.0: 未连接
+55203d090a7fd8c3204c8bbcf8ff245c:struct.音视频通道对照表.是否连接云台.values.1: 连接
+11cd221de926ddfcac01c8c5703c086e:struct.音视频通道对照表.物理通道号.name: 物理通道号
+ae2b0774a8483b7e6c0b6569ad7c6df3:struct.音视频通道对照表.通道类型.name: 通道类型
+99bc455cd750fae95263361c16948eb2:struct.音视频通道对照表.通道类型.values.0: 音视频
+b99606ec5596b87a88d534f8779af881:struct.音视频通道对照表.通道类型.values.1: 音频
+f3847376f82a50800052b587ce4eb750:struct.音视频通道对照表.通道类型.values.2: 视频
+10da69e7fb566f1e432c868568327273:struct.音视频通道对照表.逻辑通道号.name: 逻辑通道号

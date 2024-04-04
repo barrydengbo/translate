@@ -1,0 +1,52 @@
+{
+  "router": "tracking",
+  "log": {
+    "header": {
+      "time": "Time",
+      "cmd": "Instruction",
+      "raw": "Package content",
+      "autoScroll": "Auto Scroll"
+    }
+  },
+  "action": {
+    "sendWarning": "Command content cannot be empty",
+    "sendToPlatform": "Send to platform",
+    "sendToPlatformPlaceholder": "Binary instruction content",
+    "sendToDevice": "Send to device",
+    "sendToDevicePlaceholder": "Text instruction content",
+    "selectTxt": "Text Command",
+    "selectBinary": "Binary Command",
+    "selectCode": "Pseudo Code",
+    "pause": "pause",
+    "resume": "resume",
+    "start": "Start",
+    "restart": "Restart"
+  },
+  "script": {
+    "syntaxError": "Syntax error"
+  },
+  "map": {
+    "location": "current location"
+  },
+  "page": {
+    "header": {
+      "id": "Device ID",
+      "name": "Device name",
+      "redirect": "Target address",
+      "proxy": "Relay address",
+      "title": "Analog Recording"
+    },
+    "toolTip": {
+      "connect": "Please connect the device to this server address and port"
+    }
+  },
+  "export": {
+    "title": "Export",
+    "exportExcel": "Export to Excel format",
+    "exportCSV": "Export to CSV format",
+    "download": "Download",
+    "exportSuccess": "Export successful",
+    "exportPending": "Exporting...",
+    "exportDescription": "Please stay on the current page and wait for completion"
+  }
+}

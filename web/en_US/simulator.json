@@ -1,0 +1,13 @@
+{
+  "router": "Simulator",
+  "title": "Device",
+  "add": "Add Simulator",
+  "console": "Console",
+  "play": "Play",
+  "name": "Name",
+  "id": "ID",
+  "brand": "Brand",
+  "model": "Model",
+  "redirect": "Target Address",
+  "createdAt": "Time"
+}

@@ -1,0 +1,138 @@
+8218f1982e0439cf079c392a49808370:command.1.cmd: 登录验证
+205c250cd703bb0ef878f0caa65eba5b:command.1.request.ICCID.name: ICCID
+eef7de8bdcbcfa277f30fbfcdcc4a3f5:command.1.request.IMEI.name: IMEI
+30fcd9447321469f91876a6260cadb3a:command.1.request.设备标识.name: 设备标识
+01645dd649d342b2c79bbeb2eafd6017:command.1.request.软件版本.name: 软件版本
+d8795dfa8c6851e1a22aebb1e67d4402:command.1.request.附加信息.name: 附加信息
+87e512701f9eaf7147ee232fe4da6f80:command.1.response.服务器 ip.name: 服务器 ip
+6d69b727dcd10a66a49e61374e2e5a88:command.1.response.服务器时间.name: 服务器时间
+4d5df93eb667667556f6c218ef10295e:command.1.response.状态值.name: 状态值
+835acd7c1e3a637e8d63c7e5887e5197:command.1.response.端口号.name: 端口号
+2d7192247d7641ef873fe593fd9df273:command.10.cmd: 数据透传通道
+04a8f5aa525cd574dab44cd3b95670cf:command.10.request.数据内容.name: 数据内容
+22c1d946ab9533e210ff1df2ccdfdf6d:command.10.request.通道.name: 通道
+c745717e8c8a96c9725c9661fee371de:command.10.response.数据内容.name: 数据内容
+e64ea490bafb0b89ffe81707068c88f0:command.10.response.通道.name: 通道
+528334a15f2f060a3f7b3dfe65fd4e13:command.11.cmd: 设备状态同步
+b28fd362ec2925322c3915418d0544c7:command.11.request.状态同步内容.name: 状态同步内容
+23cfd3500fd791d58845a44783e898e2:command.11.response.状态值.name: 状态值
+3ee0d69948c02a04b8db0513cb7e5e9a:command.12.cmd: 设备日志上报
+fd49404557430aea7dd776dd3fed9558:command.12.request.状态同步内容.name: 状态同步内容
+d63128dc7993b16c4379ce9122adfb84:command.2.cmd: 心跳保持
+0d1383c0befdc1d4d281dad92be93bcb:command.2.request.SIM 卡信号.name: SIM 卡信号
+ddb5978d9b9136d70dc530b5f7dd06ec:command.2.request.卫星数量.name: 卫星数量
+f309b2e5974ac9a1791bef28f4244a94:command.2.request.电量.name: 电量
+7d46a0f1dd058fcb3d8bd5eab1b5033e:command.2.request.终端状态.3.values.0: 震动检测关闭
+8669a1987276f5b706aca71f7193465b:command.2.request.终端状态.3.values.1: 震动检测开启
+ab66fa493d1ae3872a30a0d3aee5997d:command.2.request.终端状态.4.values.0: ACC 关闭
+192aa9f563644dad06b62da122ca5606:command.2.request.终端状态.4.values.1: ACC 点火
+c5f67ffc5732299012957993314fb988:command.2.request.终端状态.5.values.0: 未电源充电
+788c7a20cdd67901bd7032e2c6ebceaf:command.2.request.终端状态.5.values.1: 电源充电
+f897f35e3bcce82c2c61622f2b6c5e0c:command.2.request.终端状态.6.values.0: GPS 未定位
+1477f7319fac26debf5eef3d4400310a:command.2.request.终端状态.6.values.1: GPS 已定位
+df0373aee049945f3e310393e7cc9f4c:command.2.request.终端状态.7.values.0: 油电断开
+b42bf2cd20fbbebfbcba062d4dcf530d:command.2.request.终端状态.7.values.1: 油电接通
+7717fe277dd53cc23bd1de685d5f9501:command.2.request.终端状态.name: 终端状态
+7b61e63a8825776e61fe72a3ccbcead3:command.2.request.附加信息.name: 附加信息
+f68e032e7a2095aeb881d143da039594:command.2.response.状态值.name: 状态值
+3afe51ed07ec053cbe8256798e2ff34b:command.3.cmd: 网络校时
+351fb4df88eb39591f37dbee43714ec9:command.3.response.服务器时间.name: 服务器时间
+45db0187abf8578d42e23551228a885d:command.3.response.状态值.name: 状态值
+312fc66e613f065dbcba9c0dfb0b9b74:command.4.cmd: 上报单个定位信息
+d83c4b4d4abe615e9c96c3d4ad9e41fa:command.4.request.定位信息.name: 定位信息
+d5205b7645e106ef9935e84668a781ef:command.4.response.状态值.name: 状态值
+95eef2724522b380efd8b026fedce16b:command.5.cmd: 上报多个定位信息
+2025271e34533e7a38e1e822f3e88ccb:command.5.request.定位信息.name: 定位信息
+6816dc154546bd64a62c8f33d3326a5b:command.5.request.定位报数量.name: 定位报数量
+19444a599b5e4452df555f1f7eb07dbb:command.5.response.状态值.name: 状态值
+67d57677116c2550b9947c23eeaa9fa8:command.6.cmd: 上报复合定位信息
+85574f5ed0fab19e85f3622538d20a7b:command.6.request.Wi-Fi 数据.name: Wi-Fi 数据
+b2434686e43f5b0904b46e315bbcde32:command.6.request.Wi-Fi 数量.name: Wi-Fi 数量
+04eae2270265d281f5eca465cd75d48f:command.6.request.上报时间.name: 上报时间
+872e5c545060c26ce7f499276205fe24:command.6.request.基站数据.name: 基站数据
+ffb7638125e5711daf03b00373ab4623:command.6.request.基站数量.name: 基站数量
+b5563bcafb344589520df23767510e01:command.6.request.是否回复经纬度.name: 是否回复经纬度
+0b07d1dfc9991e68aa136ebf139910ec:command.6.request.是否回复经纬度.values.0: 平台不需要回复经纬度
+1ea57503a247f8cba63ccb3f1110df0f:command.6.request.是否回复经纬度.values.1: 平台需要回复经纬度
+9a4088599fa63399e0b8cd485c8deb50:command.6.request.蓝牙数据.name: 蓝牙数据
+0ca58e648cf0a83cce5f128566678e12:command.6.request.蓝牙数量.name: 蓝牙数量
+8bd2e5dbccbd8fbffcf960ed1c057cc4:command.6.response.状态值.name: 状态值
+2699f90cd4346affdc003acb0714fdd2:command.6.response.纬度.name: 纬度
+0415d746cb5746c9d2b236fe2728804f:command.6.response.经度.name: 经度
+4290c299e671bcc5db91b64884682c01:command.7.cmd: 上报录音
+25801c824c9336121c0cf2b10c76bbc8:command.7.request.切片数.name: 切片数
+f755991ed71425a600595ee32d599055:command.7.request.序号.name: 序号
+23733fe88a1dad84c6a6a6c11d17d2c6:command.7.request.音频数据.name: 音频数据
+471af7db317926d07124b55a069ae33b:command.7.response.状态值.name: 状态值
+c57f31a215b806d38599e437bded5308:command.8.cmd: 上报告警
+948464361e0a994b7e0a9a4fa42c8642:command.8.request.SIM 卡信号.name: SIM 卡信号
+1ed25536f8ee4b1884db6be644d7eca8:command.8.request.卫星数量.name: 卫星数量
+719f8391f97707b1cc27d3e16e5f0a9b:command.8.request.报警内容.name: 报警内容
+bd56f170f0e83fb35ce089eda9f8e3e6:command.8.request.报警时间.name: 报警时间
+41ae29a5c9e8b3e89887dd984f27e6d6:command.8.request.电量.name: 电量
+1770e6ed40784fac9e17fc300288c293:command.8.response.状态值.name: 状态值
+eb083cfeb3f8adbfa33a2dcd60fb387b:command.9.cmd: 字符指令集
+f493a84489c3bbce7f33775851c409d3:command.9.request.任务 ID.name: 任务 ID
+5a0cd1f937040fd2f4ca4beca5e61e1b:command.9.request.指令内容.name: 指令内容
+c0c043a2fdcdf4439caf09f6f0f04f57:command.9.response.任务 ID.name: 任务 ID
+eee1e3e73868b2d1424587cfa261e40f:command.9.response.回复内容.name: 回复内容
+7d30047ed7dca4a4ba13d959dafe3cd6:header.241.包体长度.name: 包体长度
+bdf5d0f4d5a704cee2a2426af7493725:header.241.命令号.name: 命令号
+79d7ca09b8584614a332a71b5b46632b:header.241.序列号.name: 序列号
+71a363e63d456905efe2bd631e7c4581:header.241.校验码.name: 校验码
+ee00511f8716d8b7147f4bfaee46f6fd:header.241.起始位.name: 起始位
+deee9a5c5c2d021b238273062d4e0fb0:header.242.包体长度.name: 包体长度
+d0fda5fe0d847b689d84742f99abcfed:header.242.命令号.name: 命令号
+ce3c663234041da9612a66c9c38737be:header.242.序列号.name: 序列号
+dfda311df165c2347019e2ac42c19725:header.242.校验码.name: 校验码
+224d86316b1b65e8d987bfa7d36e0c0a:header.242.起始位.name: 起始位
+76267496ae074062e6ce93cf485fdfaa:struct.Wi-Fi 数据.MAC.name: MAC
+42e29ff0fd9591d945d4d0a103ff5c9e:struct.Wi-Fi 数据.SSID.name: SSID
+476c33404b714c79f31a3fdaa58e6708:struct.Wi-Fi 数据.name: Wi-Fi 数据
+002de7c6a5eefc03a9394d080412c767:struct.Wi-Fi 数据.信号强度.name: 信号强度
+0dfe5ca53cb6cae73cd6168c0668ca54:struct.基站数据.name: 基站数据
+d688ea5e6b118ab120d16673c96516c6:struct.基站数据.位置区码.name: 位置区码
+b3d00fc7c91a392a6eb82e3e5eee2456:struct.基站数据.信号强度.name: 信号强度
+b46f2434f91d2d13d026ed0143d52e99:struct.基站数据.国家代号.name: 国家代号
+29fb735ef51baa3bb423b6cce432e46b:struct.基站数据.移动基站.name: 移动基站
+0270a2c9038d5f17f2406775b8f4a265:struct.基站数据.移动网号码.name: 移动网号码
+adecfbf4406bb7d2aa07db9ac41236c5:struct.定位信息.Wi-Fi 数据.name: Wi-Fi 数据
+fd99af124618b1086e0150a25ce15281:struct.定位信息.Wi-Fi 数量.name: Wi-Fi 数量
+131685f3f305855cc56f380114293036:struct.定位信息.name: 定位信息
+4c69b20fee5b03bb88a7f10a562001da:struct.定位信息.上报时间.name: 上报时间
+8aff7f7d261104b0d5f31eb10af4fbc8:struct.定位信息.上报类型.name: 上报类型
+fbc3eea7484ca8bf02b725dd50486cd5:struct.定位信息.上报类型.values.0: 定时上传
+517c05134c04b8a78282eaed614dfe98:struct.定位信息.上报类型.values.1: 定距上传
+96149efb039e7215140239b2f8cf1f41:struct.定位信息.上报类型.values.16: 设备开机
+0d2a85c00c888c77336dc63bdc254c3c:struct.定位信息.上报类型.values.17: 设备关机
+9fa9077a5956e533d749361e79267aa4:struct.定位信息.上报类型.values.18: 上班打卡
+fb6ed76f5c8bb5a92b2e2c63bd220ccf:struct.定位信息.上报类型.values.19: 下班打卡
+0ad88a95c993791436e23637750df899:struct.定位信息.上报类型.values.2: 拐点上传
+3185ae2022557ee6740d9f7e713af690:struct.定位信息.上报类型.values.3: ACC 状态变化上报
+984f43ca20735b5d504a00c1df9cb3ed:struct.定位信息.卫星数量.name: 卫星数量
+634c80e673328efdd04be1d4afd08fb9:struct.定位信息.基站数据.name: 基站数据
+4a70b967495571387e359085a16b6471:struct.定位信息.基站数量.name: 基站数量
+31c01383bd46ada84d0bf0742ec71986:struct.定位信息.模式.name: 模式
+0da7729050ea21e1f69f384801746ac4:struct.定位信息.模式.values.0: 实时
+0e1c59074b2e3e79444dd902605760aa:struct.定位信息.模式.values.1: 补传
+b1f325ccf0e1a91c8485f512f8e827bb:struct.定位信息.海拔.name: 海拔
+4d87cd5c2cbc12817c70dc96fd1c9c8d:struct.定位信息.纬度.name: 纬度
+1329b7b84544f48a1e0411a5720ba916:struct.定位信息.经度.name: 经度
+7bf4c5212e113cfafa1ac25ea4388ba0:struct.定位信息.航向、状态.0.description: 航向
+446771767f8592f9dfededde05926ace:struct.定位信息.航向、状态.11.values.0: Acc-off
+fe9fcaa0b725f4929c38489ae6784aef:struct.定位信息.航向、状态.11.values.1: Acc-on
+6b427023031212ee1c11196d6c718921:struct.定位信息.航向、状态.12.values.0: GPS 差分定位
+ea5abd3c2d02f8394acc5fc854ae03ab:struct.定位信息.航向、状态.12.values.1: GPS 实时定位
+7d49a1a8bd44ea1e6be8b5b071798756:struct.定位信息.航向、状态.13.values.0: GPS 未定位
+c66a42e7075a8fa33cf3bca2955efce4:struct.定位信息.航向、状态.13.values.1: GPS 已定位
+0047465a39740246de3cdade5399f516:struct.定位信息.航向、状态.14.values.0: 北纬
+e4f2dfdec2eb81fbbcdd307599c39f19:struct.定位信息.航向、状态.14.values.1: 南纬
+586ff7f2931954c8963299ead33d4066:struct.定位信息.航向、状态.15.values.0: 西经
+cc2151bc9ba354b2558c0cf299261518:struct.定位信息.航向、状态.15.values.1: 东经
+c6142028e8bf8a5ee8d92a9db6da78cb:struct.定位信息.航向、状态.name: 航向、状态
+5f16732369a49418468a960ff4b47459:struct.定位信息.蓝牙数量.name: 蓝牙数量
+33d3543952bfcb4c2b3faf4c6ee82435:struct.定位信息.速度.name: 速度
+535fd77331c45df5ac617a0952b20fe3:struct.蓝牙数据.MAC.name: MAC
+20d0ae82b280fe348becbe4092a27b69:struct.蓝牙数据.name: 蓝牙数据
+a0049a25b65d5c7912df2eac48abf28e:struct.蓝牙数据.信号强度.name: 信号强度
+b130c1a261309a800a02c9f66b2d5dea:struct.蓝牙数据.蓝牙名字.name: 蓝牙名字

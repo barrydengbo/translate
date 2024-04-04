@@ -1,0 +1,13 @@
+{
+  "router": "模拟",
+  "title": "模拟设备",
+  "add": "添加设备",
+  "console": "控制台",
+  "play": "运行",
+  "name": "设备名称",
+  "id": "IMEI",
+  "brand": "品牌",
+  "model": "型号",
+  "redirect": "目标地址",
+  "createdAt": "创建时间"
+}

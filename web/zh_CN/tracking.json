@@ -1,0 +1,52 @@
+{
+  "router": "跟踪",
+  "log": {
+    "header": {
+      "time": "时间",
+      "cmd": "指令",
+      "raw": "包内容",
+      "autoScroll": "自动滚动"
+    }
+  },
+  "action": {
+    "sendWarning": "指令内容不能为空",
+    "sendToPlatform": "发送到平台",
+    "sendToPlatformPlaceholder": "二进制指令内容",
+    "sendToDevice": "发送到设备",
+    "sendToDevicePlaceholder": "文本指令内容",
+    "selectTxt": "文本指令",
+    "selectBinary": "二进制指令",
+    "selectCode": "伪代码",
+    "pause": "暂停",
+    "resume": "恢复",
+    "start": "开始",
+    "restart": "重新开始"
+  },
+  "script": {
+    "syntaxError": "语法错误"
+  },
+  "map": {
+    "location": "当前位置"
+  },
+  "page": {
+    "header": {
+      "id": "设备ID",
+      "name": "设备名称",
+      "redirect": "目标地址",
+      "proxy": "中转地址",
+      "title": "模拟记录"
+    },
+    "toolTip": {
+      "connect": "请将设备连接到此服务器地址和端口"
+    }
+  },
+  "export": {
+    "title": "导出",
+    "exportExcel": "导出为Excel格式",
+    "exportCSV": "导出为CSV格式",
+    "download": "下载",
+    "exportSuccess": "导出成功",
+    "exportPending": "正在导出...",
+    "exportDescription": "请保持在当前页面，等待完成"
+  }
+}

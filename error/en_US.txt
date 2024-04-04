@@ -1,0 +1,54 @@
+error.1000: Unknown error: %s
+error.1001: Data format error
+error.1002: Incorrect command
+error.1003: Token has expired
+error.1004: Token has expired
+error.1005: Token is invalid
+error.1006: The verification code cannot be empty
+error.1007: Invalid validator key
+error.1008: Google verification code error
+error.1009: Mobile verification code error
+error.1010: The request type is illegal
+error.1011: Security authentication must retain at least one item
+error.1012: Parameter error
+error.1013: Illegal access
+error.1014: Parameter error
+error.1015: The server is busy, please try again later!
+error.1016: Verification code acquisition failed
+error.1017: Data format error:
+error.1018: Record does not exist
+error.1019: No data available
+error.2001: User does not exist
+error.2002: Password error
+error.2003: User registered
+error.2004: Incorrect invitation code
+error.2005: Incorrect email format
+error.2006: Incorrect format of fund password
+error.2007: The new password cannot be the same as the old password
+error.2008: Old password incorrect
+error.2009: Incorrect fund password
+error.2011: Account does not exist
+error.2012: The device has already been bound to the user
+error.2013: Device does not exist
+error.2014: The device has been bound to an account, please redirect to the login interface
+error.2015: Password error!
+error.2016: Login password error exceeded 5 times, please try again tomorrow!
+error.2017: Before binding the recommender, you must first bind the email address
+error.2018: You have already bound a recommender
+error.2019: Password error %v times, you still have %v chances left
+error.2020: The role does not exist
+error.2022: Invalid channel: %s
+error.2023: Unsupported device
+error.3001: Protocol does not exist! %s
+error.3002: Command number does not exist! 0x%X
+error.3003: CRC verification failed! Input=0x%X, valid: 0x%X
+error.3004: Command unpacking failed!
+error.3005: The product already exists!
+error.3006: The product does not exist!
+error.3104: Command packaging failed!
+error.3201: Simulated device settings cannot be empty
+error.3202: The minimum value must be less than or equal to the maximum value
+error.3203: The number of times must be less than or equal to 5
+error.3204: The number of times must be greater than zero
+error.3205: Simulated device is running
+error.4008: Interface network error

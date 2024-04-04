@@ -1,0 +1,307 @@
+8218f1982e0439cf079c392a49808370:command.1.cmd: Login
+a09cdf1e299f5553a8b4ab167421e1a1:command.1.request.Terminal ID.name: Terminal ID
+f1a826d93b1d99414ca2ab4654745aee:command.1.request.Time Zone Language.name: Time Zone Language
+1ebe1626eb073cf2ade95debb2ea8b2b:command.1.request.Type Identification Code.name: Type Identification Code
+9901b4fade276ff6430dcdc666332c3a:command.128.cmd: Online Command
+7c849c0a80aa4f59b87c8f2581c4bb1d:command.128.request.Command Content.name: Command Content
+cbb48f4e6e10ba35d568ccfe17cc93be:command.128.request.Language.name: Language
+f24efc3b4419e9db9ef44a5cd3c30d2f:command.128.request.Language.values.1: Chinese
+19ee4c1740fa5eeb30aef40b049daa40:command.128.request.Language.values.2: English
+c30dec077c334067154144fe7f9045df:command.128.request.Length of Command.name: Length of Command
+fe3b059ad742bf23aa2a67a5025ec04c:command.128.request.Server Flag Bit.name: Server Flag Bit
+d3129c479fcb8cc78e547fc0c1d0d24c:command.128.response.Content Code.name: Content Code
+7e1666ad95ca511de531d325a26ef895:command.128.response.Content Code.values.1: ASCⅡ code
+f2c4426fa529b35f2663bde4e965f0b7:command.128.response.Content Code.values.2: UTF16-BE code
+a7dd26295a28c9f83f77fa17696200e2:command.128.response.Content.name: Content
+eb3732ff51b946d42d8c9bb4963bd49e:command.128.response.Server Flag Bit.name: Server Flag Bit
+01ad538b34ac0e484489da5cd09228fc:command.138.cmd: Time
+bcbd2fdd6d74901acc0b33e62313ff95:command.138.response.Date Time.name: Date Time
+d1b6b49ea8701576846c2a2b3b74b6ad:command.141.cmd: Large File Transfer
+aa5850ce78833334eec057560920998f:command.141.request.Data Content.name: Data Content
+70e143545a92f3f4f1b6da42a6115180:command.141.request.File Error Check Type.name: File Error Check Type
+75b899f8b68c13b37f5d8c8e66b9846f:command.141.request.File Error Check Type.values.0: CRC
+146f43fb36b404e674944e4cd78a2c66:command.141.request.File Error Check Type.values.1: MD5
+459cc027425da7d505786d84743d9799:command.141.request.File Length.name: File Length
+7a11fd174c33773db1fd23b4d28d419f:command.141.request.File Type.name: File Type
+ba8823a4ba007fd03623224250a0aed2:command.141.request.File Type.values.0: voice file(monitoring)
+2cfc0bcad66d8e4a5ef05aa63994943a:command.141.request.File Type.values.1: voice file(SOS)
+5c4299009f4911fcdc1a253d54ec0c6b:command.141.request.File Type.values.2: intercom voice file
+55bc41081e141e49427ce592e6b4724d:command.141.request.File Type.values.3: Upload TCP instruction recording file
+66b3603e591cd50590779caa8ac34cff:command.141.response.Date Time.name: Date Time
+014b3a1589429d235938ae00af415f4b:command.148.cmd: Information Transmission
+13db596ce360255d15dcaa7d8ae39ad3:command.148.request.Data Content.name: Data Content
+4760a7aed7ff8ae1477636fe8e5cadb3:command.148.request.Information Type.name: Information Type
+89271df0fd3c0c9c4a999e77dac98326:command.148.response.Date Time.name: Date Time
+9f45c99370a526645affe3c164921451:command.18.cmd: GPS Location
+7200744f9270d31fcbb98c4a00fb13b5:command.18.request..name: 
+6b3e84d3616d149de137b47f24132d91:command.18.request.Mileage.name: Mileage
+41b3356fd09f79a2d13b3747e4e606ae:command.19.cmd: Heartbeat
+5783a0e23bd2190c9ea9d3d5fca777ed:command.19.request.GSM Signal Strength.name: GSM Signal Strength
+5c46024a09b59669caddf2a030a12a4c:command.19.request.GSM Signal Strength.values.0: no signal
+9a65e8dbffb1ee23d40924370b5a3cc1:command.19.request.GSM Signal Strength.values.1: extremely weak signal
+06fbe8f08f87e34f9f0bff45c6d0dee4:command.19.request.GSM Signal Strength.values.2: very weak signal
+3c4f21f38f29bea534efe073c2eb4008:command.19.request.GSM Signal Strength.values.3: good signal
+504742b09ea612b57cd4abed3464a18c:command.19.request.GSM Signal Strength.values.4: strong signal
+ecaf27a093e800bb17c8c5a70daae872:command.19.request.Language.name: Language
+504f06997daf07e9dd3254a62e790d20:command.19.request.Language.values.1: Chinese
+0a31efe61eaca0d21f37a62aad31ba44:command.19.request.Language.values.2: English
+8c3ae178511477b2c579ec3837109009:command.19.request.Terminal Information.0.values.0: Defense Deactivated
+b7b0347b0a466ccfbf923805d0eed9ba:command.19.request.Terminal Information.0.values.1: Defense Activated
+4bedc386ab70c07aa1000e6552205337:command.19.request.Terminal Information.1.values.0: ACC Low
+c31ab476bbcbdc8043f259f741e9885c:command.19.request.Terminal Information.1.values.1: ACC high
+6746f215ab099c5a6a2430626e6315d6:command.19.request.Terminal Information.2.values.0: Charge Off
+f8fded88f1031a4b53b9273e428f575c:command.19.request.Terminal Information.2.values.1: Charge On
+410d1a31572b0b10a9a0d44855a32ece:command.19.request.Terminal Information.6.values.0: GPS tracking is off
+8ab9e6f693385060bf680a5d4f26c5a8:command.19.request.Terminal Information.6.values.1: GPS tracking is on
+0c5da5b259c2e4857b058b5d1cd13680:command.19.request.Terminal Information.7.values.0: Oil and electricity connected
+b43b862e7df02df14e0e79bc2cf21e09:command.19.request.Terminal Information.7.values.1: Oil and electricity disconnected
+fad0150557ec246439f65c965c48e2fc:command.19.request.Terminal Information.name: Terminal Information
+c442d5a85732b5c9934894564fa3ab9d:command.19.request.Voltage Level.name: Voltage Level
+dfc7916fc46fcd96efbe2daf3fdcfa78:command.19.request.Voltage Level.values.0: No Power
+6d520b2555d903547f8147896a256131:command.19.request.Voltage Level.values.1: Extremely Low Battery
+8d008382f8a2b109561180ac2cf8ccce:command.19.request.Voltage Level.values.2: Very Low Battery
+286aa07f628720c8a20d64b8ec86c59b:command.19.request.Voltage Level.values.3: Low Battery
+154dff7c9b54c0dff296c585eb83e3e7:command.19.request.Voltage Level.values.4: Medium
+b97d7a7244ecfbd46a4246bc6f01ea5e:command.19.request.Voltage Level.values.5: High
+82e4e7ea0dbcd2c3a0c27560566c77d8:command.19.request.Voltage Level.values.6: Very High
+ff5d6261457df729bafeba6789cc2a93:command.21.cmd: Online Command Replied
+81ff224d9f5df99afa9e8b9569650db8:command.21.response.Command Content.name: Command Content
+d66ec185e80cab132a6214ff5c650a8e:command.21.response.Language.name: Language
+7b6704034338ac6e4d04b47417b08d4a:command.21.response.Language.values.1: Chinese
+c5cb3ee6678bb585920a3f050b3c350d:command.21.response.Language.values.2: English
+94b80e35e31f390a668480e29eb53c21:command.21.response.Length of Command.name: Length of Command
+d727f2cee485a15d001b7332822256bd:command.21.response.Server Flag Bit.name: Server Flag Bit
+f85955e1d6a486438df6b1e479e0f205:command.22.cmd: Alarm Packet
+66c126c67d83caea696f7cd986f68dac:command.22.request..name: 
+2fb5360988f8708ee21740bd9c534d37:command.22.request.LBS length.name: LBS length
+841acf29fd0d40a2310639e835fdb21a:command.25.cmd: Alarm Packet (LBS)
+dab408ec1226b0ad2502370a974ef8b7:command.25.request..name: 
+34fbe8526fa2ae05b5162909aea192bb:command.33.cmd: Online Command Replied
+d3e46261b6e975273923784bdd1c0b6f:command.33.response.Content Code.name: Content Code
+505e395fe5330b748f32e871f783e292:command.33.response.Content Code.values.1: ASCⅡ code
+7bec54f54b8f6dfc638cab962dcd1bf9:command.33.response.Content Code.values.2: UTF16-BE code
+b671f45fa943a2c86b9679714e2f972e:command.33.response.Content.name: Content
+90693940f592a0c83d22c6f142210287:command.33.response.Server Flag Bit.name: Server Flag Bit
+91ce9fade05852cbff3bd725fa36aec3:command.34.cmd: GPS Location
+8421b766f0a423df1ebb7dd4eec1fa40:command.34.request..name: 
+cd974ce4ba8d6a429b6d6eded496a729:command.34.request.ACC.name: ACC
+55c41f26d87c5aa0b1fc8a228eefbd38:command.34.request.ACC.values.0: ACC low
+09a562bf692532d1370964c24767f21e:command.34.request.ACC.values.1: ACC high
+7edf505bf841d8d08d96af8186a692fd:command.34.request.Data Upload Mode.name: Data Upload Mode
+f5659c821ca8b6cabd8dc8f537451814:command.34.request.Data Upload Mode.values.0: Upload by time interval
+7ffd4cedcacf2403e5e45102d2302553:command.34.request.Data Upload Mode.values.1: Upload by distance interval
+4db5bcaa30e36a30928400d21e1e3b15:command.34.request.Data Upload Mode.values.10: Upload the last longitude and latitude when device is static;time updated
+0fc6dbb0ecbbb15c0c8446351ac889f0:command.34.request.Data Upload Mode.values.13: Upload the last longitude and latitude when device is static
+fe8f81005cb2bb6d38fef7e8ad906f5f:command.34.request.Data Upload Mode.values.14: Gpsdup upload (Upload regularly in a static state.)
+ab49333c0490d473d9b96dcfe86496cd:command.34.request.Data Upload Mode.values.2: Inflection point upload
+ed21b627833391e3f3e9b14f25a77775:command.34.request.Data Upload Mode.values.3: ACC status upload
+7f007c066c09b8e6ae221b3df140ddad:command.34.request.Data Upload Mode.values.4: Re-upload the last GPS point when back to static
+8aab4a1f4797308c0ff96489933038c8:command.34.request.Data Upload Mode.values.5: Upload the last effective point when network recovers
+ef109e08f7708700101c86ee6595e3f5:command.34.request.Data Upload Mode.values.6: Update ephemeris and upload GPS data compulsorily
+0d11d209db9bba0393dd10ad10517f8f:command.34.request.Data Upload Mode.values.7: Upload location when side key triggered
+2fd38f3b7ab2817614b1760685e9ba6a:command.34.request.Data Upload Mode.values.8: Upload location after power on
+a2b8b1738d1e338a49a739d9fbfc7c3b:command.34.request.Data Upload Mode.values.9: Unused
+41c2dcb7990b6217c3afaf3065525683:command.34.request.GPS Real-time Re-upload.name: GPS Real-time Re-upload
+be1555df5a3828700abb23b44860f578:command.34.request.GPS Real-time Re-upload.values.0: Real time upload
+85866f7f05c6d0087e775dc3770e5e1e:command.34.request.GPS Real-time Re-upload.values.1: Re-upload
+30d39fbec9206dacfdc992c49adef30d:command.34.request.Mileage.name: Mileage
+52d5aa6ef48c00b0505420a1214dabcc:command.35.cmd: Heartbeat
+34c7d67116701fd4eaadc9c686fe5db5:command.35.request.GSM Signal Strength.name: GSM Signal Strength
+3c2b5330e7b9ef18a702c4c5a4d6d4b8:command.35.request.GSM Signal Strength.values.0: no signal
+c7f0b566da2b547ba492bad115666325:command.35.request.GSM Signal Strength.values.1: extremely weak signal
+551a3b938f8956db95778a3f35237fa3:command.35.request.GSM Signal Strength.values.2: very weak signal
+2767b50f29367c4e0499a8276a3bbff6:command.35.request.GSM Signal Strength.values.3: good signal
+6a68b18f07cfed6d55a87779b06ebdfd:command.35.request.GSM Signal Strength.values.4: strong signal
+5a858fdafb61f06c1a08ec4b4b91474f:command.35.request.Language.name: Language
+562840aa0848a6699b8bb58fbb56d37b:command.35.request.Language.values.1: Chinese
+c458f560a884614e03b1a3a6c11761f5:command.35.request.Language.values.2: English
+7ed2e74ef97b918cffa7f078d21a6bef:command.35.request.Terminal Information.0.values.0: Defense Deactivated
+0c3c478045fb7660c753203bb9defad3:command.35.request.Terminal Information.0.values.1: Defense Activated
+25c2e717da89be10bb5a1fbe491ed836:command.35.request.Terminal Information.1.values.0: ACC Low
+4f2ff18a114bdbe3596cd7deb5a4358f:command.35.request.Terminal Information.1.values.1: ACC high
+4dccf03d60105fe2fbddf8d88a7d76b9:command.35.request.Terminal Information.2.values.0: Charge Off
+b270ff6796926e01251c33453143edc0:command.35.request.Terminal Information.2.values.1: Charge On
+dada355a7945dfc253d97d48139ed333:command.35.request.Terminal Information.6.values.0: GPS tracking is off
+b696aee197336c30387be491eacfd3f1:command.35.request.Terminal Information.6.values.1: GPS tracking is on
+8926000f4f3a50ef7114baa570cd7af2:command.35.request.Terminal Information.7.values.0: Oil and electricity connected
+9cba01de715371f4c41a234869b32a44:command.35.request.Terminal Information.7.values.1: Oil and electricity disconnected
+40be84e10a2b3e27a7aa1fdca82cc03b:command.35.request.Terminal Information.name: Terminal Information
+8aab80bd56dc77f77cd6d66556e67dfc:command.35.request.Voltage Level.name: Voltage Level
+65b1e20c0bedae57d36f9e713dcfa1fd:command.38.cmd: Alarm Packet (GPS)
+80e0609d02c3f222a7c528dca9324a47:command.38.request..name: 
+574c44b1a972a2618e940bae3425be9a:command.39.cmd: Alarm Packet (Multiple fences)
+34583921e9b92ba118f5bcc8b8101549:command.39.request..name: 
+7772623d4402337210783b36da4e762f:command.39.request.Fence Number.name: Fence Number
+5e547f5f14120c0b53d1b041a3900c4e:command.40.cmd: LBS Multiple Bases Extension Information
+aae755f38f351789544d93af8e80c0fe:command.40.request.CI.name: CI
+7ee59e66d69ad859f713916464a94333:command.40.request.Date Time.name: Date Time
+eca42892d8de999a2af1f57a48894e8c:command.40.request.LAC.name: LAC
+f7245b26179907682e07a67777a5bf33:command.40.request.Language.name: Language
+ac1c60e8cc9491a6711bbb0161f89740:command.40.request.Language.values.1: Chinese
+8adf5ab70ff71c7d9f3158d53134d0d5:command.40.request.Language.values.2: English
+26cdd12858e3d306dc4d2866367fc05f:command.40.request.MCC.name: MCC
+39a4bd1867caedcfa21237b13da950a7:command.40.request.MNC.name: MNC
+6c8230ef526adf863fc7e34353fd79e3:command.40.request.NCI1.name: NCI1
+c7ef737f06c3f1e69b7d00b210301f20:command.40.request.NCI2.name: NCI2
+61b00c196a698d948bbe25196f5e1484:command.40.request.NCI3.name: NCI3
+a54014c4152c9129749cca03855c6a68:command.40.request.NCI4.name: NCI4
+e1a6831eaafdf9688c0f1caa8a40b68c:command.40.request.NCI5.name: NCI5
+53dd9b5503ceffb87146ebc3cf9ca420:command.40.request.NCI6.name: NCI6
+6ee70c45ade0f9d8b7e6b3f4b6db08f9:command.40.request.NLAC1.name: NLAC1
+84c459056c12277232e682f1c8329b93:command.40.request.NLAC2.name: NLAC2
+005cb0cbf56256d8e1ca95991bd052ed:command.40.request.NLAC3.name: NLAC3
+5690cc7f24a07a2ea805a694e8fbf8f2:command.40.request.NLAC4.name: NLAC4
+52d497693307d388a595378e697ad33c:command.40.request.NLAC5.name: NLAC5
+5edf0c3f3164e29b0b0d39303a984953:command.40.request.NLAC6.name: NLAC6
+dc1ba50dc5809c6501a50b7a721386af:command.40.request.NRSSI1.name: NRSSI1
+ef8fd4b19ae64c4ea8493b681537cb17:command.40.request.NRSSI2.name: NRSSI2
+390526c1778170a87aa5b9567ac783b2:command.40.request.NRSSI3.name: NRSSI3
+d8bedeead40720b758d9518f028e75ee:command.40.request.NRSSI4.name: NRSSI4
+625bf2c514755156e0338443bc456173:command.40.request.NRSSI5.name: NRSSI5
+af4676269879716adc2b82d90b838197:command.40.request.NRSSI6.name: NRSSI6
+03c5b5c751684a3343ff95525da1e511:command.40.request.RSSI.name: RSSI
+70af637fc65d15ed4885f4a077086f46:command.40.request.Time leads.name: Time leads
+b317c403ac443273dcf0afaa20d92f2c:command.44.cmd: WIFI Information
+7daf6f063bedbd8ce4f0ccbb3b74ca34:command.44.request.CI.name: CI
+d38c082506960e08a5cf909760387a88:command.44.request.Date Time.name: Date Time
+e59dfb594c6a0188220a8c425ff1b5ca:command.44.request.LAC.name: LAC
+e1b1eeb55540fce78eabca6b8a1a4296:command.44.request.MCC.name: MCC
+eb202ae265de77a9a6cc20f619925522:command.44.request.MNC.name: MNC
+9a730165766e1604adb406d79a23a538:command.44.request.NCI1.name: NCI1
+c66bcbf21635cc7d0c1e68be8eea8526:command.44.request.NCI2.name: NCI2
+f80e48ae600278810bc20731e66776fe:command.44.request.NCI3.name: NCI3
+eb578b85fb644ce9cd6e2d4c98260cfe:command.44.request.NCI4.name: NCI4
+15a2494b4542437c92625d9fe08326ec:command.44.request.NCI5.name: NCI5
+1ed9e2dcd10fc8e941ee135a8d1e51f0:command.44.request.NCI6.name: NCI6
+d36833950dc5efef19bc0dae495bd720:command.44.request.NLAC1.name: NLAC1
+f2d6367c9c94f7d258b85e1876361ef2:command.44.request.NLAC2.name: NLAC2
+94ac13c9877a4b65397583b28e4055ed:command.44.request.NLAC3.name: NLAC3
+8bc68d3b499c8412bd75a8ac8de5ab69:command.44.request.NLAC4.name: NLAC4
+3024f7bddc00eecc0f7be652a1c9efdb:command.44.request.NLAC5.name: NLAC5
+7ca36ba0bd2e1bdfa8b88470d03c5bab:command.44.request.NLAC6.name: NLAC6
+23597214b147ed6969555f609656bf02:command.44.request.NRSSI1.name: NRSSI1
+0804a3876828c6f836c26f61bbe529c0:command.44.request.NRSSI2.name: NRSSI2
+3cb34d625cd4d12a6a80c067843589e9:command.44.request.NRSSI3.name: NRSSI3
+c0152fb842c0e7d89433f23e5b5090f9:command.44.request.NRSSI4.name: NRSSI4
+9cdd99de7682fa02a47eb19428a38606:command.44.request.NRSSI5.name: NRSSI5
+7b9ac4d8a0faccb836686fd9142fb1c6:command.44.request.NRSSI6.name: NRSSI6
+55d2c01ffca55fcc4484eb72db9bc055:command.44.request.RSSI.name: RSSI
+ca8c678da781ed57e364e63342b6b62c:command.44.request.Time leads.name: Time leads
+469aa5936ef034c68b9b201f4eb21d91:command.44.request.Wi-Fi Data.name: Wi-Fi Data
+f810c9b85d1ad22801eca3cf11c3be69:command.44.request.WiFi quantity.name: WiFi quantity
+7978368c5c8c9a4bc49560d03318c2ea:footer.Error Check.name: Error Check
+e16c750f07fdd9126c8d34a0041ee9ec:footer.Information Serial Number.name: Information Serial Number
+46951d15d741b66a33a370360cc997e2:header.30840.Packet Length.name: Packet Length
+b0d3831593263c2c77ddc5bb1c2ab80e:header.30840.Protocol Number.name: Protocol Number
+876c96ccd37b482f9fcdfe2a9b590127:header.30840.Start Bit.name: Start Bit
+6b52e3d138f2de7e0ed7c9b804a918bd:header.31097.Packet Length.name: Packet Length
+675259054a352f4e4f396218f6ff0584:header.31097.Protocol Number.name: Protocol Number
+3d40430e0f52cbadf4a6cf2f766f0e1c:header.31097.Start Bit.name: Start Bit
+ec0848250b2372f73f13008cf181e13b:struct.Alarm Content Extend.Alarm/Language.0.values.0: Platform has no need to reply
+7191bdc6cab8ba70cff60fc4e5f5c2fb:struct.Alarm Content Extend.Alarm/Language.0.values.1: Chinese
+2f16b36cc917349cf19634fd338e3443:struct.Alarm Content Extend.Alarm/Language.0.values.2: English
+689b8051309bd7f4780de11bd16e707c:struct.Alarm Content Extend.Alarm/Language.8.values.0: Normal
+bd1e4f504282883ca52c1afac3888e10:struct.Alarm Content Extend.Alarm/Language.8.values.1: SOS
+fed26be447b4d5172945a9d067bf427c:struct.Alarm Content Extend.Alarm/Language.8.values.10: Enter GPS dead zone alarm
+02101d82fed2bb7bf3b621517eb7b27c:struct.Alarm Content Extend.Alarm/Language.8.values.11: Exit GPS dead zone alarm
+d1375282eca3fdecf0b51ac4b3f3590d:struct.Alarm Content Extend.Alarm/Language.8.values.12: Power on alarm
+56a3437149f9d4eea521be150d4ce21a:struct.Alarm Content Extend.Alarm/Language.8.values.13: GPS First fix notice
+53bc41f9c56cc54e9d79b9cdaee4a240:struct.Alarm Content Extend.Alarm/Language.8.values.14: Low battery alarm
+1c59d3201f68c35da1e91486ed8b02c6:struct.Alarm Content Extend.Alarm/Language.8.values.15: Low battery protection alarm
+d3a877b248fd34c6188efb1f4161ded8:struct.Alarm Content Extend.Alarm/Language.8.values.16: SIM change notice
+ea5dc64604c14436241acaa04fdc11a7:struct.Alarm Content Extend.Alarm/Language.8.values.17: Power off alarm
+c221cd9a86cf6fa4dc234a7e3424bce2:struct.Alarm Content Extend.Alarm/Language.8.values.18: Airplane mode alarm
+13bda890cfc74d39ea9b3d610aa34eb3:struct.Alarm Content Extend.Alarm/Language.8.values.19: Disassemble alarm
+a31eceb4bc6a96740315db501f62a4af:struct.Alarm Content Extend.Alarm/Language.8.values.2: Power cut alarm
+d3c27a1b8e269f649a5fa84fac0b6d27:struct.Alarm Content Extend.Alarm/Language.8.values.20: Door alarm
+715add17c034bf1fc0acced3d128a15c:struct.Alarm Content Extend.Alarm/Language.8.values.21: Low battery and shutdown alarm
+7dec6d63df3712d5145071967dcc956e:struct.Alarm Content Extend.Alarm/Language.8.values.22: Sound control alarm
+e7c98ed9dbc648bd71ff31555213905a:struct.Alarm Content Extend.Alarm/Language.8.values.23: Pseudo base-station alarm
+a085e6ee3dd4e44118fa60e1844d6f65:struct.Alarm Content Extend.Alarm/Language.8.values.24: Open cover alarm
+ae81ade4f4ac71002a0122c2c3afd8af:struct.Alarm Content Extend.Alarm/Language.8.values.25: Internal low Battery Alarm
+5b1825e35b9edfc99e186612823b0665:struct.Alarm Content Extend.Alarm/Language.8.values.3: Vibration alarm
+bcc955ca44467003070da1be193960cb:struct.Alarm Content Extend.Alarm/Language.8.values.32: Sleep mode alarm
+b1b09e09dcc7482f0a9c7ef00eeed119:struct.Alarm Content Extend.Alarm/Language.8.values.36: Insert charger alarm
+808e64f53b9e6f45074559586b8fc6b0:struct.Alarm Content Extend.Alarm/Language.8.values.4: Enter fence alarm
+b68a1a02258b8ca3ec3b75569fb2661b:struct.Alarm Content Extend.Alarm/Language.8.values.40: Offline pre-alarm
+b54e2cc7993c8c11ad31c5bf48d53c9f:struct.Alarm Content Extend.Alarm/Language.8.values.5: Exit fence alarm
+d0cf325ea431662a56ada69c169a5708:struct.Alarm Content Extend.Alarm/Language.8.values.50: Pull alarm
+d86761c9746c846905e6132b4f19f3eb:struct.Alarm Content Extend.Alarm/Language.8.values.6: Over speed alarm
+0d4e4537dc6dc247176721bc123c5716:struct.Alarm Content Extend.Alarm/Language.8.values.9: Displacement alarm
+917a0fb4095d6026f6b0633421157e39:struct.Alarm Content Extend.Alarm/Language.name: Alarm/Language
+b3a3ff76950f122a486ef8028ac69d47:struct.Alarm Content Extend.GSM Signal Strength.name: GSM Signal Strength
+75a983c63d86855bdaf173c8e538229c:struct.Alarm Content Extend.GSM Signal Strength.values.0: no signal
+1e76a5524ad756d15f0a3942d6fa6b37:struct.Alarm Content Extend.GSM Signal Strength.values.1: extremely weak signal
+31157e6983a4ae4986b27ce9b6ba805b:struct.Alarm Content Extend.GSM Signal Strength.values.2: very weak signal
+4ae4ed0313a6076fe685247e55849a1b:struct.Alarm Content Extend.GSM Signal Strength.values.3: good signal
+f918751c0ef61c391013a83e9f54dbc9:struct.Alarm Content Extend.GSM Signal Strength.values.4: strong signal
+aeeedbd93e8db1d5dff27f91d9647947:struct.Alarm Content Extend.Terminal Information.0.values.0: Defense Deactivated
+995db1f9e076dbb60a4b0d60b1acc661:struct.Alarm Content Extend.Terminal Information.0.values.1: Defense Activated
+40b31080a8c4a657572917ed86944200:struct.Alarm Content Extend.Terminal Information.1.values.0: ACC Low
+9ba02dca2e62d9220e5a3b42bab5e705:struct.Alarm Content Extend.Terminal Information.1.values.1: ACC high
+1e4f23075e83a4b556b2a53ec771d59e:struct.Alarm Content Extend.Terminal Information.2.values.0: Not Charge
+c9810e92792e63defc0fe28cc6cf6dbf:struct.Alarm Content Extend.Terminal Information.2.values.1: Charging
+816c70712cbcc6f29e1b160e7e079e95:struct.Alarm Content Extend.Terminal Information.3.values.0: Normal
+0ec19e9e0db2407c162bc7d5a3f4fbaa:struct.Alarm Content Extend.Terminal Information.3.values.1: Vibration Alarm
+3538167b32196bbd45b18523f61a788c:struct.Alarm Content Extend.Terminal Information.3.values.2: Power Cut Alarm
+f023be7542302a7a4d50616559ad1379:struct.Alarm Content Extend.Terminal Information.3.values.3: Low Battery Alarm
+e5bf7a4371e52cadd0f104cfbb8fb7e6:struct.Alarm Content Extend.Terminal Information.3.values.4: SOS
+0b4b098431371354bf982b59f0b504a7:struct.Alarm Content Extend.Terminal Information.6.values.0: GPS tracking is off
+77d3096de2bf91526db35a7d9f572a79:struct.Alarm Content Extend.Terminal Information.6.values.1: GPS tracking is on
+39230b400d350a64a97f0341603f1408:struct.Alarm Content Extend.Terminal Information.7.values.0: Oil and electricity connected
+84f4a6cc7630709870a33a10b77255f1:struct.Alarm Content Extend.Terminal Information.7.values.1: Oil and electricity disconnected
+65d9ea61a04dbb0c9fc15d614fa5e209:struct.Alarm Content Extend.Terminal Information.name: Terminal Information
+9c6653354ea4aa6db64d7d9f23603a4c:struct.Alarm Content Extend.Voltage Level.name: Voltage Level
+85ac0cc27870338d33ba371e8cbe40b1:struct.Alarm Content Extend.Voltage Level.values.0: No Power (shutdown)
+d6ff9aed73763dd10898a3afe80e9ce4:struct.Alarm Content Extend.Voltage Level.values.1: Extremely Low Battery
+30b1b7256250bc6b1c66cb881b0efe7a:struct.Alarm Content Extend.Voltage Level.values.2: Very Low Battery
+bdd84a6b1cafb4b274d226208ad7eff9:struct.Alarm Content Extend.Voltage Level.values.3: Low Battery
+b154f924d925095a0e7fa2fae43917b8:struct.Alarm Content Extend.Voltage Level.values.4: Medium
+87048ca3a38ee68c31bc2c0b8786fbb8:struct.Alarm Content Extend.Voltage Level.values.5: High
+0baa38b1c0df98c50696bc5c5e495fbd:struct.Alarm Content Extend.Voltage Level.values.6: Very High
+ad4d4bdd8a6892b554c409b4ce5cf6cc:struct.Alarm Content Extend.name: Alarm Content Extend
+946157ed0013e128fae7bb401647f5b9:struct.Alarm Content..name: 
+d0bc6ad7087cfae2730c391bf2cefd04:struct.Alarm Content.Cell ID.name: Cell ID
+ad7658466e27574b626b40f2a0f2ffd0:struct.Alarm Content.LAC.name: LAC
+fc622ef15e3dbc60f68364ba89cbeb84:struct.Alarm Content.MCC.name: MCC
+998bbacac9cd4ebd3036162e74cafd86:struct.Alarm Content.MNC.name: MNC
+07f8b2b2342e367791d56fa7189ce6a5:struct.Alarm Content.name: Alarm Content
+bc78249aeac1f5f84584b62578a83a4c:struct.Date Time.Day.name: Day
+714e7f8cb03051bcd0f52d844ac8fc92:struct.Date Time.Hour.name: Hour
+ce2edf0386bfa387fbcb6a527d9d5b99:struct.Date Time.Min.name: Min
+0f7c45a5ae00b355c82d28649b592f56:struct.Date Time.Month.name: Month
+f00f6150e49de5ec23a8ef3917602a29:struct.Date Time.Second.name: Second
+3dbde87052b11f6377a606dcd4b01936:struct.Date Time.Year.name: Year
+0775501f2c6331a19ceff9dea2588368:struct.Date Time.name: Date Time
+1978f7a4d08a0f7af747a21567933b67:struct.GPS Alarm..name: 
+f91d83b4563f7ffaf713f7b098839203:struct.GPS Alarm.LBS length.name: LBS length
+44e126b857089e6d8174801f8104bccf:struct.GPS Alarm.name: GPS Alarm
+e486371d09c851c32dd04e9052486832:struct.GPS Location.Course & Status.0.description: Course
+7f56437eed877418d0c174c3fe3c2b47:struct.GPS Location.Course & Status.10.values.0: South Latitude
+7ae27b11cd354f076075e7cabc945918:struct.GPS Location.Course & Status.10.values.1: North Latitude
+17babc1ca40837b845f8aa6f967ac587:struct.GPS Location.Course & Status.11.values.0: East Longitude
+54a244d228fdba57bfd0d460c141ee07:struct.GPS Location.Course & Status.11.values.1: West Longitude
+46c0413c0d6f706f0e3048e93a65bd13:struct.GPS Location.Course & Status.12.values.0: GPS has not been positioned
+1cdd4a94ece78ae74a4198c81a0abafc:struct.GPS Location.Course & Status.12.values.1: GPS has been positioned
+03694ab05c7fe1e24dbd25bb3fd1f053:struct.GPS Location.Course & Status.13.values.0: GPS real-time positioning
+616530d943b98f397d2f3263b775e38e:struct.GPS Location.Course & Status.13.values.1: GPS differential positioning
+84515e7cab877dfb1fb4c15f92991ad3:struct.GPS Location.Course & Status.name: Course & Status
+6b2b2d079ef8785c3625d5d8698f1237:struct.GPS Location.Date Time.name: Date Time
+e15deb2da464a98f9bf7ff0761fadffd:struct.GPS Location.Latitude.name: Latitude
+b4db6a3533cf8639e7c89845a29aafb1:struct.GPS Location.Longitude.name: Longitude
+fd59ad8ecc4469d122933e1f6b8ec8fb:struct.GPS Location.Quantity of GPS information satellites.0.description: Positioning satellite number
+2d0dc380183f1842aaabf7a5739af31e:struct.GPS Location.Quantity of GPS information satellites.4.description: GPS information length
+8080097229407fb8a35df48d52d10cf4:struct.GPS Location.Quantity of GPS information satellites.name: Quantity of GPS information satellites
+51bc7c6c0175d1596288312b2d6a5a63:struct.GPS Location.Speed.name: Speed
+acae003c641d2efb51932abd76c2e721:struct.GPS Location.name: GPS Location
+aacd24969c0762d6038ecf39eec1c017:struct.LBS Information Base.Cell ID.name: Cell ID
+ad3046551d2a7dca7511b7c2575907db:struct.LBS Information Base.LAC.name: LAC
+8cf5abbd22d366b4e9796429b405964b:struct.LBS Information Base.MCC.name: MCC
+edefc3cd419ceeec6501c67315e542b8:struct.LBS Information Base.MNC.name: MNC
+8f5cd235afdab3022c0667c3ab24689e:struct.LBS Information Base.name: LBS Information Base
+0d31487a9be459124f3469fe52296571:struct.LBS Information..name: 
+6e97bf6e08c043da94eae7c1db15d98e:struct.LBS Information.LBS length.name: LBS length
+d897986e1ff7664dc4a4b717bf9daa4a:struct.LBS Information.name: LBS Information
+dd3c6e51edab39f0789b4352c36b9d4a:struct.Wi-Fi Data.MAC.name: MAC
+bac6b55ec33dae5bcf5ccf04b7ee1d2d:struct.Wi-Fi Data.WIFI strength.name: WIFI strength
+be02d111db83a48fff078f50b1dab71a:struct.Wi-Fi Data.name: Wi-Fi Data
